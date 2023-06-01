@@ -1,0 +1,84 @@
+
+Strings v2.51
+Copyright (C) 1999-2013 Mark Russinovich
+Sysinternals - www.sysinternals.com
+
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.rdata
+@.data
+SVW
+p @
+t @
+0 @
+jjj
+h @
+jjjj
+d @
+\ @
+h 0@
+0 @
+` @
+h00@
+, @
+h<0@
+, @
+( @
+jjjj
+d @
+\ @
+vkh@0@
+$ @
+  @
+T @
+_^[
+4 @
+4 @
+ SVW
+p0@
+t0@
+l0@
+h0@
+x0@
+=P0@
+L @
+d0@
+5`0@
+D @
+@ @
+< @
+%8 @
+%H @
+ShellExecuteA
+SHELL32.dll
+WS2_32.dll
+InternetCloseHandle
+InternetReadFile
+InternetOpenUrlA
+InternetOpenA
+WININET.dll
+fclose
+fwrite
+fopen
+malloc
+strstr
+printf
+MSVCRT.dll
+_exit
+_XcptFilter
+exit
+__p___initenv
+__getmainargs
+_initterm
+__setusermatherr
+_adjust_fdiv
+__p__commode
+__p__fmode
+__set_app_type
+_except_handler3
+_controlfp
+_strdup
+not enough name
+internet unable
+Bamboo::

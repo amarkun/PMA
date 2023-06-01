@@ -1,0 +1,395 @@
+
+Strings v2.51
+Copyright (C) 1999-2013 Mark Russinovich
+Sysinternals - www.sysinternals.com
+
+!This program cannot be run in DOS mode.
+Rich(
+.text
+`.rdata
+@.data
+SVW
+X_^[]
+jjj
+h0`@
+SVWh
+D`@
+<`@
+Ph4`@
+_^[
+SVW
+_^[
+SVW
+_^[
+SVW
+L`@
+jjj
+_^[
+_9=H
+@P@
+<P@
+YYh `@
+8P@
+;t$
+WVS
+[^_
+hp#@
+SVW
+HP@
+DP@
+p`@
+8P@
+4I+
+LP@
+x`@
+x`@
+x`@
+x`@
+VWu
+<=t
+t9UW
+?=t"U
+QQS3
+VWu
+PSSW
+PVW
+8"uD
+"t)
+8"uF@
+8\u
+8"u,
+u%3
+ t?
+_^[
+-`P@
+VW3
+\P@
+@@f9
+@@f9
+=XP@
+SS@SSPVSS
+D$4
+t2U
+t#SSUP
+t$$VSS
+TP@
+uL;
+\P@
+t<8
+UWV
+PP@
+_^][YY
+DSUVWh
+pP@
+|$B
+D$D
+Yt8
+lP@
+hP@
+lP@
+dP@
+_^][
+tP@
+8MZu
+|P@
+xP@
+<a|
+<a|
+YY;
+t>j,P
+Yt0@
+9;u
+9D$
+SVWUj
+]_^[
+SVW
+D$ 
+t.;t$$t(
+_^[
+VC20XC00U
+SVWU
+tEVU
+t3x<
+]_^[
+=t`@
+u!h
+ a@
+ a@
+=t`@
+<v)
+$a@
+$a@
+hP@
+Vt6P
+9D$
+w?V
+Yt4^
+^;5
+SVW
+Y;5
+90tr
+0B=
+j@3
+j@3
+UAA
+_^[
+Wj@Y3
+t7SW
+    
+_[j
+VPj
+VPV
+VPh
+@AA;
+,-@
+|-@
+t-@
+l-@
+d-@
+\-@
+T-@
+L-@
+0/@
+8.@
+0/@
+H.@
+h.@
+0/@
+0/@
+0/@
+'/@
+0/@
+@/@
+H/@
+X/@
+l/@
+Yu$
+<xt
+<Xt
+<xt
+<Xu
+7;M
+u,9E
+_^[
+^_[3
+^_[
+^_[
+^_[
+WSV
+^[_3
+^[_
+^[_
+^[_
+j?Z
+j?Z
+K^;
+uiSj
+_^[
+;#M
+;#M
+uY;]
+D#M
+pD#U
+j #M
+j?^;
+ }+
+_^[
+VW3
+4P@
+t*j
+SVW
+j?i
+NCu
+_^[
+SUVWu
+h  
+_^][
+QSV
+u&j
+A Z
+Y;5
+_^[
+QQSV
+SQP
+6;5
+_^[
+u0j
+sN;E
+u@j
+u%C@
+_^[
+VWuBh4T@
+,P@
+50P@
+h(T@
+tPh
+_^[
+tzVS
+GIt%
+t/Ku
+[^_
+GKu
+[^_
+hHT@
+hp#@
+SVW
+uFWWj
+[ShDT@
+ P@
+"WWSh@T@
+$P@
+$P@
+9} u
+E WW
+(P@
+tfS
+(P@
+tMWWS
+ P@
+t@9}
+ P@
+_^[
+ P@
+WWu
+VSh 
+XP@
++D$
+h`T@
+hp#@
+SVW
+^VhDT@
+PVh@T@
+(P@
+WSV
+(P@
+_^[
+xI@
+xI@
+xI@
+xI@
+oI@
+\I@
+TI@
+LI@
+DI@
+<I@
+4I@
+,I@
+xI@
+(J@
+HJ@
+pJ@
+ K@
+(K@
+8K@
+LK@
+tG3
+GIu
+GJu
+__GLOBAL_HEAP_SELECTED
+__MSVCRT_HEAP_SELECT
+runtime error 
+TLOSS error
+SING error
+DOMAIN error
+R6028
+- unable to initialize heap
+R6027
+- not enough space for lowio initialization
+R6026
+- not enough space for stdio initialization
+R6025
+- pure virtual function call
+R6024
+- not enough space for _onexit/atexit table
+R6019
+- unable to open console device
+R6018
+- unexpected heap error
+R6017
+- unexpected multithread lock error
+R6016
+- not enough space for thread data
+abnormal program termination
+R6009
+- not enough space for environment
+R6008
+- not enough space for arguments
+R6002
+- floating point not loaded
+Microsoft Visual C++ Runtime Library
+Runtime Error!
+Program: 
+...
+<program name unknown>
+GetLastActivePopup
+GetActiveWindow
+MessageBoxA
+user32.dll
+YD@
+]D@
+WaitForSingleObject
+CreateProcessA
+GetShortPathNameA
+GetModuleFileNameA
+QueryPerformanceCounter
+Sleep
+GetTickCount
+KERNEL32.dll
+ShellExecuteA
+SHELL32.dll
+WSASocketA
+WS2_32.dll
+ExitProcess
+TerminateProcess
+GetCurrentProcess
+GetCommandLineA
+GetVersion
+UnhandledExceptionFilter
+FreeEnvironmentStringsA
+FreeEnvironmentStringsW
+WideCharToMultiByte
+GetEnvironmentStrings
+GetEnvironmentStringsW
+SetHandleCount
+GetStdHandle
+GetFileType
+GetStartupInfoA
+GetModuleHandleA
+GetEnvironmentVariableA
+GetVersionExA
+HeapDestroy
+HeapCreate
+VirtualFree
+HeapFree
+RtlUnwind
+WriteFile
+HeapAlloc
+GetCPInfo
+GetACP
+GetOEMCP
+VirtualAlloc
+HeapReAlloc
+GetProcAddress
+LoadLibraryA
+MultiByteToWideChar
+LCMapStringA
+LCMapStringW
+GetStringTypeA
+GetStringTypeW
+/,@
+cmd
+cmd.exe
+ >> NUL
+/c del 
+xS@
+LS@
+ S@
+|R@
+PR@
+XQ@
+HQ@
+8Q@
+(Q@
+$Q@
+         (((((                  H

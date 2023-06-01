@@ -1,0 +1,5543 @@
+TalonTech Consulting LLC.
+**************************
+Process Viewer v1.3
+
+
+
+=====================================================
+PROCESS NAME:  [System Process]
+-------------------------------------------------------
+  WARNING: OpenProcess failed with error 87 (The parameter is incorrect)
+  Process ID        = 0x00000000
+  Thread count      = 2
+  Parent process ID = 0x00000000
+  Priority base     = 0
+
+     MODULE NAME:     Lab15-03.exe
+     Executable     = C:\Documents and Settings\Administrator\Desktop\PracticalMalwareAnalysis-Labs\Chapter_15L\Lab15-03.exe
+     Process ID     = 0x00000614
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x00400000
+     Base size      = 16384
+
+     MODULE NAME:     ntdll.dll
+     Executable     = C:\WINDOWS\system32\ntdll.dll
+     Process ID     = 0x00000614
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7EB30000
+     Base size      = 737280
+
+     MODULE NAME:     kernel32.dll
+     Executable     = C:\WINDOWS\system32\kernel32.dll
+     Process ID     = 0x00000614
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7C800000
+     Base size      = 1011712
+
+     MODULE NAME:     urlmon.dll
+     Executable     = C:\WINDOWS\system32\urlmon.dll
+     Process ID     = 0x00000614
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x78130000
+     Base size      = 1265664
+
+     MODULE NAME:     msvcrt.dll
+     Executable     = C:\WINDOWS\system32\msvcrt.dll
+     Process ID     = 0x00000614
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77C10000
+     Base size      = 360448
+
+     MODULE NAME:     ole32.dll
+     Executable     = C:\WINDOWS\system32\ole32.dll
+     Process ID     = 0x00000614
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7EBF0000
+     Base size      = 1314816
+
+     MODULE NAME:     ADVAPI32.dll
+     Executable     = C:\WINDOWS\system32\ADVAPI32.dll
+     Process ID     = 0x00000614
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77DD0000
+     Base size      = 634880
+
+     MODULE NAME:     RPCRT4.dll
+     Executable     = C:\WINDOWS\system32\RPCRT4.dll
+     Process ID     = 0x00000614
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77E70000
+     Base size      = 602112
+
+     MODULE NAME:     Secur32.dll
+     Executable     = C:\WINDOWS\system32\Secur32.dll
+     Process ID     = 0x00000614
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77FE0000
+     Base size      = 69632
+
+     MODULE NAME:     GDI32.dll
+     Executable     = C:\WINDOWS\system32\GDI32.dll
+     Process ID     = 0x00000614
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77F10000
+     Base size      = 303104
+
+     MODULE NAME:     USER32.dll
+     Executable     = C:\WINDOWS\system32\USER32.dll
+     Process ID     = 0x00000614
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7E410000
+     Base size      = 593920
+
+     MODULE NAME:     OLEAUT32.dll
+     Executable     = C:\WINDOWS\system32\OLEAUT32.dll
+     Process ID     = 0x00000614
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77120000
+     Base size      = 581632
+
+     MODULE NAME:     MSVCP60.dll
+     Executable     = C:\WINDOWS\system32\MSVCP60.dll
+     Process ID     = 0x00000614
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x76080000
+     Base size      = 413696
+
+     MODULE NAME:     SHLWAPI.dll
+     Executable     = C:\WINDOWS\system32\SHLWAPI.dll
+     Process ID     = 0x00000614
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77F60000
+     Base size      = 487424
+
+     MODULE NAME:     iertutil.dll
+     Executable     = C:\WINDOWS\system32\iertutil.dll
+     Process ID     = 0x00000614
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x3B500000
+     Base size      = 2019328
+
+     MODULE NAME:     IMM32.DLL
+     Executable     = C:\WINDOWS\system32\IMM32.DLL
+     Process ID     = 0x00000614
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x76390000
+     Base size      = 118784
+
+     MODULE NAME:     comctl32.dll
+     Executable     = C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.7660_x-ww_936580bb\comctl32.dll
+     Process ID     = 0x00000614
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x773D0000
+     Base size      = 1060864
+
+     THREAD ID      = 0x00000000
+     Base priority  = 0
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000000
+     Base priority  = 0
+     Delta priority = 0
+
+
+=====================================================
+PROCESS NAME:  System
+-------------------------------------------------------
+  WARNING: OpenProcess failed with error 5 (Access is denied)
+  Process ID        = 0x00000004
+  Thread count      = 58
+  Parent process ID = 0x00000000
+  Priority base     = 8
+  WARNING: CreateToolhelp32Snapshot (of modules) failed with error 5 (Access is denied)
+
+     THREAD ID      = 0x00000008
+     Base priority  = 0
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000010
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000014
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000018
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000001C
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000020
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000024
+     Base priority  = 12
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000028
+     Base priority  = 12
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000002C
+     Base priority  = 12
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000030
+     Base priority  = 12
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000034
+     Base priority  = 12
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000038
+     Base priority  = 12
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000003C
+     Base priority  = 12
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000040
+     Base priority  = 15
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000044
+     Base priority  = 14
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000048
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000004C
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000050
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000054
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000058
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000005C
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000060
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000064
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000068
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000006C
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000070
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000074
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000007C
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000090
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000094
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000098
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000009C
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000000DC
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000000E0
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000000E4
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000124
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000128
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000015C
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000200
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000204
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000208
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000210
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000214
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000021C
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000078C
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000790
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000794
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000798
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000007AC
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000007BC
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000014C
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000174
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000001B4
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000006B0
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000550
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000660
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000001DC
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000007F4
+     Base priority  = 8
+     Delta priority = 0
+
+
+=====================================================
+PROCESS NAME:  smss.exe
+-------------------------------------------------------
+  WARNING: OpenProcess failed with error 5 (Access is denied)
+  Process ID        = 0x00000224
+  Thread count      = 3
+  Parent process ID = 0x00000004
+  Priority base     = 11
+  WARNING: CreateToolhelp32Snapshot (of modules) failed with error 5 (Access is denied)
+
+     THREAD ID      = 0x00000228
+     Base priority  = 11
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000234
+     Base priority  = 11
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000238
+     Base priority  = 11
+     Delta priority = 0
+
+
+=====================================================
+PROCESS NAME:  csrss.exe
+-------------------------------------------------------
+  WARNING: OpenProcess failed with error 5 (Access is denied)
+  Process ID        = 0x00000260
+  Thread count      = 11
+  Parent process ID = 0x00000224
+  Priority base     = 13
+  WARNING: CreateToolhelp32Snapshot (of modules) failed with error 5 (Access is denied)
+
+     THREAD ID      = 0x000002A0
+     Base priority  = 15
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000002A4
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000002A8
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000002AC
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000002B8
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000002BC
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000002C0
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000002F0
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000320
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000274
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000644
+     Base priority  = 15
+     Delta priority = 0
+
+
+=====================================================
+PROCESS NAME:  winlogon.exe
+-------------------------------------------------------
+  WARNING: OpenProcess failed with error 5 (Access is denied)
+  Process ID        = 0x000002B0
+  Thread count      = 18
+  Parent process ID = 0x00000224
+  Priority base     = 13
+  WARNING: CreateToolhelp32Snapshot (of modules) failed with error 5 (Access is denied)
+
+     THREAD ID      = 0x000002B4
+     Base priority  = 15
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000002D0
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000002D4
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000002D8
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000002E4
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000390
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000394
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000398
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000005C4
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000005D4
+     Base priority  = 11
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000065C
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000006EC
+     Base priority  = 15
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000006F0
+     Base priority  = 15
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000278
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000027C
+     Base priority  = 1
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000288
+     Base priority  = 1
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000019C
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000001BC
+     Base priority  = 13
+     Delta priority = 0
+
+
+=====================================================
+PROCESS NAME:  services.exe
+-------------------------------------------------------
+  WARNING: OpenProcess failed with error 5 (Access is denied)
+  Process ID        = 0x000002DC
+  Thread count      = 16
+  Parent process ID = 0x000002B0
+  Priority base     = 9
+  WARNING: CreateToolhelp32Snapshot (of modules) failed with error 5 (Access is denied)
+
+     THREAD ID      = 0x000002F4
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000002F8
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000002FC
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000035C
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000378
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000037C
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000380
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000003B8
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000003E4
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000004A0
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000004A4
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000658
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000004D4
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000005E4
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000007CC
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000001C0
+     Base priority  = 9
+     Delta priority = 0
+
+
+=====================================================
+PROCESS NAME:  lsass.exe
+-------------------------------------------------------
+  WARNING: OpenProcess failed with error 5 (Access is denied)
+  Process ID        = 0x000002E8
+  Thread count      = 27
+  Parent process ID = 0x000002B0
+  Priority base     = 9
+  WARNING: CreateToolhelp32Snapshot (of modules) failed with error 5 (Access is denied)
+
+     THREAD ID      = 0x00000300
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000304
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000308
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000030C
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000310
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000031C
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000334
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000338
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000340
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000344
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000348
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000034C
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000350
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000354
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000358
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000368
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000006CC
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000007EC
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000000FC
+     Base priority  = 11
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000000F4
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000000F0
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000254
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000001A0
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000006E4
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000770
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000004AC
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000664
+     Base priority  = 9
+     Delta priority = 0
+
+
+=====================================================
+PROCESS NAME:  vmacthlp.exe
+-------------------------------------------------------
+  WARNING: OpenProcess failed with error 5 (Access is denied)
+  Process ID        = 0x0000039C
+  Thread count      = 1
+  Parent process ID = 0x000002DC
+  Priority base     = 8
+  WARNING: CreateToolhelp32Snapshot (of modules) failed with error 5 (Access is denied)
+
+     THREAD ID      = 0x000003A0
+     Base priority  = 8
+     Delta priority = 0
+
+
+=====================================================
+PROCESS NAME:  svchost.exe
+-------------------------------------------------------
+  WARNING: OpenProcess failed with error 5 (Access is denied)
+  Process ID        = 0x000003AC
+  Thread count      = 17
+  Parent process ID = 0x000002DC
+  Priority base     = 8
+  WARNING: CreateToolhelp32Snapshot (of modules) failed with error 5 (Access is denied)
+
+     THREAD ID      = 0x000003B0
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000003D0
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000003D4
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000003D8
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000003DC
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000059C
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000608
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000060C
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000620
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000005FC
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000005EC
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000314
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000062C
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000638
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000005BC
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000760
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000454
+     Base priority  = 8
+     Delta priority = 0
+
+
+=====================================================
+PROCESS NAME:  svchost.exe
+-------------------------------------------------------
+  WARNING: OpenProcess failed with error 5 (Access is denied)
+  Process ID        = 0x000003EC
+  Thread count      = 10
+  Parent process ID = 0x000002DC
+  Priority base     = 8
+  WARNING: CreateToolhelp32Snapshot (of modules) failed with error 5 (Access is denied)
+
+     THREAD ID      = 0x000003F0
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000003F4
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000003FC
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000400
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000404
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000408
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000040C
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000410
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000007FC
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000000C0
+     Base priority  = 8
+     Delta priority = 0
+
+
+=====================================================
+PROCESS NAME:  svchost.exe
+-------------------------------------------------------
+  WARNING: OpenProcess failed with error 5 (Access is denied)
+  Process ID        = 0x00000480
+  Thread count      = 57
+  Parent process ID = 0x000002DC
+  Priority base     = 8
+  WARNING: CreateToolhelp32Snapshot (of modules) failed with error 5 (Access is denied)
+
+     THREAD ID      = 0x00000484
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000488
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000048C
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000490
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000004B0
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000510
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000514
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000054C
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000558
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000564
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000568
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000056C
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000570
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000580
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000005A0
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000005A8
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000670
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000784
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000007D8
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000007E0
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000007E4
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000144
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000138
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000134
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000140
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000148
+     Base priority  = 15
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000001C4
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000001E8
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000001F4
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000022C
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000294
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000003C0
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000548
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000158
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000074C
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000748
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000007DC
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000006B4
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000005F4
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000005E0
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000006AC
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000006F8
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000110
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000150
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000012C
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000001FC
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000005CC
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000001F8
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000036C
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000000D0
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000170
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000270
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000000AC
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000628
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000668
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000388
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000000CC
+     Base priority  = 8
+     Delta priority = 0
+
+
+=====================================================
+PROCESS NAME:  svchost.exe
+-------------------------------------------------------
+  WARNING: OpenProcess failed with error 5 (Access is denied)
+  Process ID        = 0x00000508
+  Thread count      = 7
+  Parent process ID = 0x000002DC
+  Priority base     = 8
+  WARNING: CreateToolhelp32Snapshot (of modules) failed with error 5 (Access is denied)
+
+     THREAD ID      = 0x0000050C
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000538
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000053C
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000540
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000168
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000003E0
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000002E0
+     Base priority  = 8
+     Delta priority = 0
+
+
+=====================================================
+PROCESS NAME:  spoolsv.exe
+-------------------------------------------------------
+  WARNING: OpenProcess failed with error 5 (Access is denied)
+  Process ID        = 0x00000574
+  Thread count      = 10
+  Parent process ID = 0x000002DC
+  Priority base     = 8
+  WARNING: CreateToolhelp32Snapshot (of modules) failed with error 5 (Access is denied)
+
+     THREAD ID      = 0x00000578
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000588
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000058C
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000598
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000003A4
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000003C8
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000474
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000328
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000130
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000198
+     Base priority  = 8
+     Delta priority = 0
+
+
+=====================================================
+PROCESS NAME:  explorer.exe
+-------------------------------------------------------
+  Process ID        = 0x000006B8
+  Thread count      = 14
+  Parent process ID = 0x00000698
+  Priority base     = 8
+  Priority class    = 32
+
+     MODULE NAME:     Explorer.EXE
+     Executable     = C:\WINDOWS\Explorer.EXE
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x01000000
+     Base size      = 1044480
+
+     MODULE NAME:     ntdll.dll
+     Executable     = C:\WINDOWS\system32\ntdll.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7EB30000
+     Base size      = 737280
+
+     MODULE NAME:     kernel32.dll
+     Executable     = C:\WINDOWS\system32\kernel32.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7C800000
+     Base size      = 1011712
+
+     MODULE NAME:     ADVAPI32.dll
+     Executable     = C:\WINDOWS\system32\ADVAPI32.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77DD0000
+     Base size      = 634880
+
+     MODULE NAME:     RPCRT4.dll
+     Executable     = C:\WINDOWS\system32\RPCRT4.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77E70000
+     Base size      = 602112
+
+     MODULE NAME:     Secur32.dll
+     Executable     = C:\WINDOWS\system32\Secur32.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77FE0000
+     Base size      = 69632
+
+     MODULE NAME:     BROWSEUI.dll
+     Executable     = C:\WINDOWS\system32\BROWSEUI.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x75F80000
+     Base size      = 1036288
+
+     MODULE NAME:     GDI32.dll
+     Executable     = C:\WINDOWS\system32\GDI32.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77F10000
+     Base size      = 303104
+
+     MODULE NAME:     USER32.dll
+     Executable     = C:\WINDOWS\system32\USER32.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7E410000
+     Base size      = 593920
+
+     MODULE NAME:     msvcrt.dll
+     Executable     = C:\WINDOWS\system32\msvcrt.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77C10000
+     Base size      = 360448
+
+     MODULE NAME:     ole32.dll
+     Executable     = C:\WINDOWS\system32\ole32.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7EBF0000
+     Base size      = 1314816
+
+     MODULE NAME:     SHLWAPI.dll
+     Executable     = C:\WINDOWS\system32\SHLWAPI.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77F60000
+     Base size      = 487424
+
+     MODULE NAME:     OLEAUT32.dll
+     Executable     = C:\WINDOWS\system32\OLEAUT32.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77120000
+     Base size      = 581632
+
+     MODULE NAME:     MSVCP60.dll
+     Executable     = C:\WINDOWS\system32\MSVCP60.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x76080000
+     Base size      = 413696
+
+     MODULE NAME:     SHDOCVW.dll
+     Executable     = C:\WINDOWS\system32\SHDOCVW.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7E290000
+     Base size      = 1519616
+
+     MODULE NAME:     CRYPT32.dll
+     Executable     = C:\WINDOWS\system32\CRYPT32.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77A80000
+     Base size      = 618496
+
+     MODULE NAME:     MSASN1.dll
+     Executable     = C:\WINDOWS\system32\MSASN1.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77B20000
+     Base size      = 73728
+
+     MODULE NAME:     CRYPTUI.dll
+     Executable     = C:\WINDOWS\system32\CRYPTUI.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x754D0000
+     Base size      = 524288
+
+     MODULE NAME:     NETAPI32.dll
+     Executable     = C:\WINDOWS\system32\NETAPI32.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x5B860000
+     Base size      = 352256
+
+     MODULE NAME:     VERSION.dll
+     Executable     = C:\WINDOWS\system32\VERSION.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77C00000
+     Base size      = 32768
+
+     MODULE NAME:     WININET.dll
+     Executable     = C:\WINDOWS\system32\WININET.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x39990000
+     Base size      = 946176
+
+     MODULE NAME:     Normaliz.dll
+     Executable     = C:\WINDOWS\system32\Normaliz.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x00400000
+     Base size      = 36864
+
+     MODULE NAME:     urlmon.dll
+     Executable     = C:\WINDOWS\system32\urlmon.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x78130000
+     Base size      = 1265664
+
+     MODULE NAME:     iertutil.dll
+     Executable     = C:\WINDOWS\system32\iertutil.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x3B500000
+     Base size      = 2019328
+
+     MODULE NAME:     WINTRUST.dll
+     Executable     = C:\WINDOWS\system32\WINTRUST.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x76C30000
+     Base size      = 188416
+
+     MODULE NAME:     IMAGEHLP.dll
+     Executable     = C:\WINDOWS\system32\IMAGEHLP.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x76C90000
+     Base size      = 167936
+
+     MODULE NAME:     WLDAP32.dll
+     Executable     = C:\WINDOWS\system32\WLDAP32.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x76F60000
+     Base size      = 180224
+
+     MODULE NAME:     SHELL32.dll
+     Executable     = C:\WINDOWS\system32\SHELL32.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7C9C0000
+     Base size      = 8486912
+
+     MODULE NAME:     UxTheme.dll
+     Executable     = C:\WINDOWS\system32\UxTheme.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x5AD70000
+     Base size      = 229376
+
+     MODULE NAME:     ShimEng.dll
+     Executable     = C:\WINDOWS\system32\ShimEng.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x5CB70000
+     Base size      = 155648
+
+     MODULE NAME:     AcGenral.DLL
+     Executable     = C:\WINDOWS\AppPatch\AcGenral.DLL
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x6F880000
+     Base size      = 1875968
+
+     MODULE NAME:     WINMM.dll
+     Executable     = C:\WINDOWS\system32\WINMM.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x000F
+     Ref count (p)  = 0x000F
+     Base address   = 0x76B40000
+     Base size      = 184320
+
+     MODULE NAME:     MSACM32.dll
+     Executable     = C:\WINDOWS\system32\MSACM32.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0003
+     Ref count (p)  = 0x0003
+     Base address   = 0x77BE0000
+     Base size      = 86016
+
+     MODULE NAME:     USERENV.dll
+     Executable     = C:\WINDOWS\system32\USERENV.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0007
+     Ref count (p)  = 0x0007
+     Base address   = 0x769C0000
+     Base size      = 737280
+
+     MODULE NAME:     IMM32.DLL
+     Executable     = C:\WINDOWS\system32\IMM32.DLL
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0005
+     Ref count (p)  = 0x0005
+     Base address   = 0x76390000
+     Base size      = 118784
+
+     MODULE NAME:     comctl32.dll
+     Executable     = C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.7660_x-ww_936580bb\comctl32.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x001C
+     Ref count (p)  = 0x001C
+     Base address   = 0x773D0000
+     Base size      = 1060864
+
+     MODULE NAME:     comctl32.dll
+     Executable     = C:\WINDOWS\system32\comctl32.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0003
+     Ref count (p)  = 0x0003
+     Base address   = 0x5D090000
+     Base size      = 630784
+
+     MODULE NAME:     msctfime.ime
+     Executable     = C:\WINDOWS\system32\msctfime.ime
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x755C0000
+     Base size      = 188416
+
+     MODULE NAME:     appHelp.dll
+     Executable     = C:\WINDOWS\system32\appHelp.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x77B40000
+     Base size      = 139264
+
+     MODULE NAME:     CLBCATQ.DLL
+     Executable     = C:\WINDOWS\system32\CLBCATQ.DLL
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x76FD0000
+     Base size      = 520192
+
+     MODULE NAME:     COMRes.dll
+     Executable     = C:\WINDOWS\system32\COMRes.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x77050000
+     Base size      = 806912
+
+     MODULE NAME:     cscui.dll
+     Executable     = C:\WINDOWS\System32\cscui.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x77A20000
+     Base size      = 344064
+
+     MODULE NAME:     CSCDLL.dll
+     Executable     = C:\WINDOWS\System32\CSCDLL.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x76600000
+     Base size      = 118784
+
+     MODULE NAME:     themeui.dll
+     Executable     = C:\WINDOWS\system32\themeui.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x5BA60000
+     Base size      = 462848
+
+     MODULE NAME:     MSIMG32.dll
+     Executable     = C:\WINDOWS\system32\MSIMG32.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x76380000
+     Base size      = 20480
+
+     MODULE NAME:     xpsp2res.dll
+     Executable     = C:\WINDOWS\system32\xpsp2res.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x01440000
+     Base size      = 2904064
+
+     MODULE NAME:     SAMLIB.dll
+     Executable     = C:\WINDOWS\system32\SAMLIB.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x71BF0000
+     Base size      = 77824
+
+     MODULE NAME:     ntshrui.dll
+     Executable     = C:\WINDOWS\system32\ntshrui.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0005
+     Ref count (p)  = 0x0005
+     Base address   = 0x76990000
+     Base size      = 151552
+
+     MODULE NAME:     ATL.DLL
+     Executable     = C:\WINDOWS\system32\ATL.DLL
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0007
+     Ref count (p)  = 0x0007
+     Base address   = 0x76B20000
+     Base size      = 69632
+
+     MODULE NAME:     msi.dll
+     Executable     = C:\WINDOWS\system32\msi.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x3FDE0000
+     Base size      = 4489216
+
+     MODULE NAME:     SETUPAPI.dll
+     Executable     = C:\WINDOWS\system32\SETUPAPI.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0006
+     Ref count (p)  = 0x0006
+     Base address   = 0x77920000
+     Base size      = 995328
+
+     MODULE NAME:     LINKINFO.dll
+     Executable     = C:\WINDOWS\system32\LINKINFO.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x76980000
+     Base size      = 32768
+
+     MODULE NAME:     ieframe.dll
+     Executable     = C:\WINDOWS\system32\ieframe.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0003
+     Ref count (p)  = 0x0003
+     Base address   = 0x3B720000
+     Base size      = 11108352
+
+     MODULE NAME:     WINSTA.dll
+     Executable     = C:\WINDOWS\system32\WINSTA.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0005
+     Ref count (p)  = 0x0005
+     Base address   = 0x76360000
+     Base size      = 65536
+
+     MODULE NAME:     webcheck.dll
+     Executable     = C:\WINDOWS\system32\webcheck.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x42E40000
+     Base size      = 249856
+
+     MODULE NAME:     MLANG.dll
+     Executable     = C:\WINDOWS\system32\MLANG.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x75CF0000
+     Base size      = 593920
+
+     MODULE NAME:     stobject.dll
+     Executable     = C:\WINDOWS\system32\stobject.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x76280000
+     Base size      = 135168
+
+     MODULE NAME:     BatMeter.dll
+     Executable     = C:\WINDOWS\system32\BatMeter.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x74AF0000
+     Base size      = 40960
+
+     MODULE NAME:     POWRPROF.dll
+     Executable     = C:\WINDOWS\system32\POWRPROF.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0004
+     Ref count (p)  = 0x0004
+     Base address   = 0x74AD0000
+     Base size      = 32768
+
+     MODULE NAME:     WTSAPI32.dll
+     Executable     = C:\WINDOWS\system32\WTSAPI32.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0004
+     Ref count (p)  = 0x0004
+     Base address   = 0x76F50000
+     Base size      = 32768
+
+     MODULE NAME:     WPDShServiceObj.dll
+     Executable     = C:\WINDOWS\system32\WPDShServiceObj.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0003
+     Ref count (p)  = 0x0003
+     Base address   = 0x16790000
+     Base size      = 143360
+
+     MODULE NAME:     WINHTTP.dll
+     Executable     = C:\WINDOWS\system32\WINHTTP.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0003
+     Ref count (p)  = 0x0003
+     Base address   = 0x4D4F0000
+     Base size      = 368640
+
+     MODULE NAME:     mydocs.dll
+     Executable     = C:\WINDOWS\system32\mydocs.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x72410000
+     Base size      = 106496
+
+     MODULE NAME:     PortableDeviceTypes.dll
+     Executable     = C:\WINDOWS\system32\PortableDeviceTypes.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x109C0000
+     Base size      = 180224
+
+     MODULE NAME:     PortableDeviceApi.dll
+     Executable     = C:\WINDOWS\system32\PortableDeviceApi.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x10930000
+     Base size      = 266240
+
+     MODULE NAME:     wdmaud.drv
+     Executable     = C:\WINDOWS\system32\wdmaud.drv
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0006
+     Ref count (p)  = 0x0006
+     Base address   = 0x72D20000
+     Base size      = 36864
+
+     MODULE NAME:     msacm32.drv
+     Executable     = C:\WINDOWS\system32\msacm32.drv
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x72D10000
+     Base size      = 32768
+
+     MODULE NAME:     midimap.dll
+     Executable     = C:\WINDOWS\system32\midimap.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x77BD0000
+     Base size      = 28672
+
+     MODULE NAME:     NETSHELL.dll
+     Executable     = C:\WINDOWS\system32\NETSHELL.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x76400000
+     Base size      = 1724416
+
+     MODULE NAME:     credui.dll
+     Executable     = C:\WINDOWS\system32\credui.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x76C00000
+     Base size      = 188416
+
+     MODULE NAME:     dot3api.dll
+     Executable     = C:\WINDOWS\system32\dot3api.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0004
+     Ref count (p)  = 0x0004
+     Base address   = 0x478C0000
+     Base size      = 40960
+
+     MODULE NAME:     rtutils.dll
+     Executable     = C:\WINDOWS\system32\rtutils.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0008
+     Ref count (p)  = 0x0008
+     Base address   = 0x76E80000
+     Base size      = 57344
+
+     MODULE NAME:     dot3dlg.dll
+     Executable     = C:\WINDOWS\system32\dot3dlg.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x736D0000
+     Base size      = 24576
+
+     MODULE NAME:     OneX.DLL
+     Executable     = C:\WINDOWS\system32\OneX.DLL
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x5DCA0000
+     Base size      = 163840
+
+     MODULE NAME:     eappcfg.dll
+     Executable     = C:\WINDOWS\system32\eappcfg.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x745B0000
+     Base size      = 139264
+
+     MODULE NAME:     eappprxy.dll
+     Executable     = C:\WINDOWS\system32\eappprxy.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x5DCD0000
+     Base size      = 57344
+
+     MODULE NAME:     iphlpapi.dll
+     Executable     = C:\WINDOWS\system32\iphlpapi.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x76D60000
+     Base size      = 102400
+
+     MODULE NAME:     WS2_32.dll
+     Executable     = C:\WINDOWS\system32\WS2_32.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0005
+     Ref count (p)  = 0x0005
+     Base address   = 0x71AB0000
+     Base size      = 94208
+
+     MODULE NAME:     WS2HELP.dll
+     Executable     = C:\WINDOWS\system32\WS2HELP.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0003
+     Ref count (p)  = 0x0003
+     Base address   = 0x71AA0000
+     Base size      = 32768
+
+     MODULE NAME:     MPR.dll
+     Executable     = C:\WINDOWS\system32\MPR.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x71B20000
+     Base size      = 73728
+
+     MODULE NAME:     vmhgfs.dll
+     Executable     = C:\WINDOWS\System32\vmhgfs.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x017B0000
+     Base size      = 65536
+
+     MODULE NAME:     drprov.dll
+     Executable     = C:\WINDOWS\System32\drprov.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x75F60000
+     Base size      = 28672
+
+     MODULE NAME:     ntlanman.dll
+     Executable     = C:\WINDOWS\System32\ntlanman.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x71C10000
+     Base size      = 57344
+
+     MODULE NAME:     NETUI0.dll
+     Executable     = C:\WINDOWS\System32\NETUI0.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x71CD0000
+     Base size      = 94208
+
+     MODULE NAME:     NETUI1.dll
+     Executable     = C:\WINDOWS\System32\NETUI1.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x71C90000
+     Base size      = 262144
+
+     MODULE NAME:     NETRAP.dll
+     Executable     = C:\WINDOWS\System32\NETRAP.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x71C80000
+     Base size      = 28672
+
+     MODULE NAME:     davclnt.dll
+     Executable     = C:\WINDOWS\System32\davclnt.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x75F70000
+     Base size      = 40960
+
+     MODULE NAME:     browselc.dll
+     Executable     = C:\WINDOWS\system32\browselc.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x71600000
+     Base size      = 73728
+
+     MODULE NAME:     DUSER.dll
+     Executable     = C:\WINDOWS\system32\DUSER.dll
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x6C1B0000
+     Base size      = 315392
+
+     MODULE NAME:     RSAENH.DLL
+     Executable     = C:\WINDOWS\system32\RSAENH.DLL
+     Process ID     = 0x000006B8
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x68000000
+     Base size      = 233472
+
+     THREAD ID      = 0x000006BC
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000700
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000708
+     Base priority  = 9
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000070C
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000710
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000714
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000720
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000774
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000004CC
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000004D0
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000004D8
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000004E0
+     Base priority  = 15
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000000BC
+     Base priority  = 10
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000114
+     Base priority  = 8
+     Delta priority = 0
+
+
+=====================================================
+PROCESS NAME:  vmtoolsd.exe
+-------------------------------------------------------
+  Process ID        = 0x00000740
+  Thread count      = 5
+  Parent process ID = 0x000006B8
+  Priority base     = 8
+  Priority class    = 32
+
+     MODULE NAME:     vmtoolsd.exe
+     Executable     = C:\Program Files\VMware\VMware Tools\vmtoolsd.exe
+     Process ID     = 0x00000740
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x00400000
+     Base size      = 69632
+
+     MODULE NAME:     ntdll.dll
+     Executable     = C:\WINDOWS\system32\ntdll.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7EB30000
+     Base size      = 737280
+
+     MODULE NAME:     kernel32.dll
+     Executable     = C:\WINDOWS\system32\kernel32.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7C800000
+     Base size      = 1011712
+
+     MODULE NAME:     ADVAPI32.dll
+     Executable     = C:\WINDOWS\system32\ADVAPI32.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77DD0000
+     Base size      = 634880
+
+     MODULE NAME:     RPCRT4.dll
+     Executable     = C:\WINDOWS\system32\RPCRT4.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77E70000
+     Base size      = 602112
+
+     MODULE NAME:     Secur32.dll
+     Executable     = C:\WINDOWS\system32\Secur32.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77FE0000
+     Base size      = 69632
+
+     MODULE NAME:     ole32.dll
+     Executable     = C:\WINDOWS\system32\ole32.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7EBF0000
+     Base size      = 1314816
+
+     MODULE NAME:     GDI32.dll
+     Executable     = C:\WINDOWS\system32\GDI32.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77F10000
+     Base size      = 303104
+
+     MODULE NAME:     USER32.dll
+     Executable     = C:\WINDOWS\system32\USER32.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7E410000
+     Base size      = 593920
+
+     MODULE NAME:     msvcrt.dll
+     Executable     = C:\WINDOWS\system32\msvcrt.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77C10000
+     Base size      = 360448
+
+     MODULE NAME:     VERSION.dll
+     Executable     = C:\WINDOWS\system32\VERSION.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77C00000
+     Base size      = 32768
+
+     MODULE NAME:     MSVCR90.dll
+     Executable     = C:\WINDOWS\WinSxS\x86_Microsoft.VC90.CRT_1fc8b3b9a1e18e3b_9.0.30729.4148_x-ww_d495ac4e\MSVCR90.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x78520000
+     Base size      = 667648
+
+     MODULE NAME:     intl.dll
+     Executable     = C:\Program Files\VMware\VMware Tools\intl.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x10000000
+     Base size      = 94208
+
+     MODULE NAME:     iconv.dll
+     Executable     = C:\Program Files\VMware\VMware Tools\iconv.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x00420000
+     Base size      = 1130496
+
+     MODULE NAME:     glib-2.0.dll
+     Executable     = C:\Program Files\VMware\VMware Tools\glib-2.0.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x00540000
+     Base size      = 1081344
+
+     MODULE NAME:     WS2_32.dll
+     Executable     = C:\WINDOWS\system32\WS2_32.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x71AB0000
+     Base size      = 94208
+
+     MODULE NAME:     WS2HELP.dll
+     Executable     = C:\WINDOWS\system32\WS2HELP.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x71AA0000
+     Base size      = 32768
+
+     MODULE NAME:     SHELL32.dll
+     Executable     = C:\WINDOWS\system32\SHELL32.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7C9C0000
+     Base size      = 8486912
+
+     MODULE NAME:     SHLWAPI.dll
+     Executable     = C:\WINDOWS\system32\SHLWAPI.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77F60000
+     Base size      = 487424
+
+     MODULE NAME:     gmodule-2.0.dll
+     Executable     = C:\Program Files\VMware\VMware Tools\gmodule-2.0.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x00370000
+     Base size      = 28672
+
+     MODULE NAME:     gobject-2.0.dll
+     Executable     = C:\Program Files\VMware\VMware Tools\gobject-2.0.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x00390000
+     Base size      = 294912
+
+     MODULE NAME:     gthread-2.0.dll
+     Executable     = C:\Program Files\VMware\VMware Tools\gthread-2.0.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x003F0000
+     Base size      = 36864
+
+     MODULE NAME:     vmtools.dll
+     Executable     = C:\Program Files\VMware\VMware Tools\vmtools.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x00660000
+     Base size      = 643072
+
+     MODULE NAME:     OLEAUT32.dll
+     Executable     = C:\WINDOWS\system32\OLEAUT32.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77120000
+     Base size      = 581632
+
+     MODULE NAME:     MSVCP60.dll
+     Executable     = C:\WINDOWS\system32\MSVCP60.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x76080000
+     Base size      = 413696
+
+     MODULE NAME:     IMM32.DLL
+     Executable     = C:\WINDOWS\system32\IMM32.DLL
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0004
+     Ref count (p)  = 0x0004
+     Base address   = 0x76390000
+     Base size      = 118784
+
+     MODULE NAME:     comctl32.dll
+     Executable     = C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.7660_x-ww_936580bb\comctl32.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0006
+     Ref count (p)  = 0x0006
+     Base address   = 0x773D0000
+     Base size      = 1060864
+
+     MODULE NAME:     comctl32.dll
+     Executable     = C:\WINDOWS\system32\comctl32.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x5D090000
+     Base size      = 630784
+
+     MODULE NAME:     IpHlpApi.dll
+     Executable     = C:\WINDOWS\system32\IpHlpApi.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x76D60000
+     Base size      = 102400
+
+     MODULE NAME:     uxtheme.dll
+     Executable     = C:\WINDOWS\system32\uxtheme.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0003
+     Ref count (p)  = 0x0003
+     Base address   = 0x5AD70000
+     Base size      = 229376
+
+     MODULE NAME:     msctfime.ime
+     Executable     = C:\WINDOWS\system32\msctfime.ime
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x755C0000
+     Base size      = 188416
+
+     MODULE NAME:     vsocklib.dll
+     Executable     = C:\WINDOWS\system32\vsocklib.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x00D10000
+     Base size      = 69632
+
+     MODULE NAME:     rasadhlp.dll
+     Executable     = C:\WINDOWS\system32\rasadhlp.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x76FC0000
+     Base size      = 24576
+
+     MODULE NAME:     hgfsServer.dll
+     Executable     = C:\Program Files\VMware\VMware Tools\plugins\common\hgfsServer.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x00F30000
+     Base size      = 86016
+
+     MODULE NAME:     hgfs.dll
+     Executable     = C:\Program Files\VMware\VMware Tools\hgfs.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0005
+     Ref count (p)  = 0x0005
+     Base address   = 0x00F60000
+     Base size      = 98304
+
+     MODULE NAME:     MPR.dll
+     Executable     = C:\WINDOWS\system32\MPR.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0006
+     Ref count (p)  = 0x0006
+     Base address   = 0x71B20000
+     Base size      = 73728
+
+     MODULE NAME:     hgfsUsability.dll
+     Executable     = C:\Program Files\VMware\VMware Tools\plugins\common\hgfsUsability.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x00F90000
+     Base size      = 45056
+
+     MODULE NAME:     USERENV.dll
+     Executable     = C:\WINDOWS\system32\USERENV.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0003
+     Ref count (p)  = 0x0003
+     Base address   = 0x769C0000
+     Base size      = 737280
+
+     MODULE NAME:     vix.dll
+     Executable     = C:\Program Files\VMware\VMware Tools\plugins\common\vix.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x00FD0000
+     Base size      = 618496
+
+     MODULE NAME:     desktopEvents.dll
+     Executable     = C:\Program Files\VMware\VMware Tools\plugins\vmusr\desktopEvents.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x01080000
+     Base size      = 73728
+
+     MODULE NAME:     WTSAPI32.dll
+     Executable     = C:\WINDOWS\system32\WTSAPI32.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x76F50000
+     Base size      = 32768
+
+     MODULE NAME:     WINSTA.dll
+     Executable     = C:\WINDOWS\system32\WINSTA.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x76360000
+     Base size      = 65536
+
+     MODULE NAME:     NETAPI32.dll
+     Executable     = C:\WINDOWS\system32\NETAPI32.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0003
+     Ref count (p)  = 0x0003
+     Base address   = 0x5B860000
+     Base size      = 352256
+
+     MODULE NAME:     MSVCP90.dll
+     Executable     = C:\WINDOWS\WinSxS\x86_Microsoft.VC90.CRT_1fc8b3b9a1e18e3b_9.0.30729.4148_x-ww_d495ac4e\MSVCP90.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0006
+     Ref count (p)  = 0x0006
+     Base address   = 0x78480000
+     Base size      = 581632
+
+     MODULE NAME:     dndcp.dll
+     Executable     = C:\Program Files\VMware\VMware Tools\plugins\vmusr\dndcp.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x010B0000
+     Base size      = 409600
+
+     MODULE NAME:     sigc-2.0.dll
+     Executable     = C:\Program Files\VMware\VMware Tools\sigc-2.0.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0003
+     Ref count (p)  = 0x0003
+     Base address   = 0x01130000
+     Base size      = 77824
+
+     MODULE NAME:     unity.dll
+     Executable     = C:\Program Files\VMware\VMware Tools\plugins\vmusr\unity.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x01160000
+     Base size      = 1871872
+
+     MODULE NAME:     PSAPI.DLL
+     Executable     = C:\WINDOWS\system32\PSAPI.DLL
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x76BF0000
+     Base size      = 45056
+
+     MODULE NAME:     glibmm-2.4.dll
+     Executable     = C:\Program Files\VMware\VMware Tools\glibmm-2.4.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x01330000
+     Base size      = 655360
+
+     MODULE NAME:     vmtray.dll
+     Executable     = C:\Program Files\VMware\VMware Tools\plugins\vmusr\vmtray.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x013E0000
+     Base size      = 94208
+
+     MODULE NAME:     mfc90u.dll
+     Executable     = C:\WINDOWS\WinSxS\x86_Microsoft.VC90.MFC_1fc8b3b9a1e18e3b_9.0.30729.4148_x-ww_a57c1f53\mfc90u.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x789E0000
+     Base size      = 3805184
+
+     MODULE NAME:     MSIMG32.dll
+     Executable     = C:\WINDOWS\system32\MSIMG32.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x76380000
+     Base size      = 20480
+
+     MODULE NAME:     MFC90ENU.DLL
+     Executable     = C:\WINDOWS\WinSxS\x86_Microsoft.VC90.MFCLOC_1fc8b3b9a1e18e3b_9.0.30729.4148_x-ww_15fc9313\MFC90ENU.DLL
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x5D360000
+     Base size      = 53248
+
+     MODULE NAME:     VMToolsHook.dll
+     Executable     = C:\Program Files\VMware\VMware Tools\VMToolsHook.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x016C0000
+     Base size      = 352256
+
+     MODULE NAME:     CLBCATQ.DLL
+     Executable     = C:\WINDOWS\system32\CLBCATQ.DLL
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x76FD0000
+     Base size      = 520192
+
+     MODULE NAME:     COMRes.dll
+     Executable     = C:\WINDOWS\system32\COMRes.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x77050000
+     Base size      = 806912
+
+     MODULE NAME:     LINKINFO.dll
+     Executable     = C:\WINDOWS\system32\LINKINFO.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x76980000
+     Base size      = 32768
+
+     MODULE NAME:     ntshrui.dll
+     Executable     = C:\WINDOWS\system32\ntshrui.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x76990000
+     Base size      = 151552
+
+     MODULE NAME:     ATL.DLL
+     Executable     = C:\WINDOWS\system32\ATL.DLL
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x76B20000
+     Base size      = 69632
+
+     MODULE NAME:     SETUPAPI.dll
+     Executable     = C:\WINDOWS\system32\SETUPAPI.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x77920000
+     Base size      = 995328
+
+     MODULE NAME:     appHelp.dll
+     Executable     = C:\WINDOWS\system32\appHelp.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x77B40000
+     Base size      = 139264
+
+     MODULE NAME:     ieframe.dll
+     Executable     = C:\WINDOWS\system32\ieframe.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x3B720000
+     Base size      = 11108352
+
+     MODULE NAME:     iertutil.dll
+     Executable     = C:\WINDOWS\system32\iertutil.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0004
+     Ref count (p)  = 0x0004
+     Base address   = 0x3B500000
+     Base size      = 2019328
+
+     MODULE NAME:     urlmon.dll
+     Executable     = C:\WINDOWS\system32\urlmon.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x78130000
+     Base size      = 1265664
+
+     MODULE NAME:     MLANG.dll
+     Executable     = C:\WINDOWS\system32\MLANG.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x75CF0000
+     Base size      = 593920
+
+     MODULE NAME:     WININET.dll
+     Executable     = C:\WINDOWS\system32\WININET.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x39990000
+     Base size      = 946176
+
+     MODULE NAME:     Normaliz.dll
+     Executable     = C:\WINDOWS\system32\Normaliz.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x01CB0000
+     Base size      = 36864
+
+     MODULE NAME:     xpsp2res.dll
+     Executable     = C:\WINDOWS\system32\xpsp2res.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x01D10000
+     Base size      = 2904064
+
+     MODULE NAME:     NTMARTA.DLL
+     Executable     = C:\WINDOWS\system32\NTMARTA.DLL
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x77690000
+     Base size      = 135168
+
+     MODULE NAME:     SAMLIB.dll
+     Executable     = C:\WINDOWS\system32\SAMLIB.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x71BF0000
+     Base size      = 77824
+
+     MODULE NAME:     WLDAP32.dll
+     Executable     = C:\WINDOWS\system32\WLDAP32.dll
+     Process ID     = 0x00000740
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x76F60000
+     Base size      = 180224
+
+     THREAD ID      = 0x00000744
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000004FC
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000500
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000025C
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000318
+     Base priority  = 8
+     Delta priority = 0
+
+
+=====================================================
+PROCESS NAME:  jusched.exe
+-------------------------------------------------------
+  Process ID        = 0x00000750
+  Thread count      = 2
+  Parent process ID = 0x000006B8
+  Priority base     = 8
+  Priority class    = 32
+
+     MODULE NAME:     jusched.exe
+     Executable     = C:\Program Files\Common Files\Java\Java Update\jusched.exe
+     Process ID     = 0x00000750
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x00400000
+     Base size      = 598016
+
+     MODULE NAME:     ntdll.dll
+     Executable     = C:\WINDOWS\system32\ntdll.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7EB30000
+     Base size      = 737280
+
+     MODULE NAME:     kernel32.dll
+     Executable     = C:\WINDOWS\system32\kernel32.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7C800000
+     Base size      = 1011712
+
+     MODULE NAME:     ole32.dll
+     Executable     = C:\WINDOWS\system32\ole32.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7EBF0000
+     Base size      = 1314816
+
+     MODULE NAME:     ADVAPI32.dll
+     Executable     = C:\WINDOWS\system32\ADVAPI32.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77DD0000
+     Base size      = 634880
+
+     MODULE NAME:     RPCRT4.dll
+     Executable     = C:\WINDOWS\system32\RPCRT4.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77E70000
+     Base size      = 602112
+
+     MODULE NAME:     Secur32.dll
+     Executable     = C:\WINDOWS\system32\Secur32.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77FE0000
+     Base size      = 69632
+
+     MODULE NAME:     GDI32.dll
+     Executable     = C:\WINDOWS\system32\GDI32.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77F10000
+     Base size      = 303104
+
+     MODULE NAME:     USER32.dll
+     Executable     = C:\WINDOWS\system32\USER32.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7E410000
+     Base size      = 593920
+
+     MODULE NAME:     msvcrt.dll
+     Executable     = C:\WINDOWS\system32\msvcrt.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77C10000
+     Base size      = 360448
+
+     MODULE NAME:     SHELL32.dll
+     Executable     = C:\WINDOWS\system32\SHELL32.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7C9C0000
+     Base size      = 8486912
+
+     MODULE NAME:     SHLWAPI.dll
+     Executable     = C:\WINDOWS\system32\SHLWAPI.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77F60000
+     Base size      = 487424
+
+     MODULE NAME:     WININET.dll
+     Executable     = C:\WINDOWS\system32\WININET.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x39990000
+     Base size      = 946176
+
+     MODULE NAME:     Normaliz.dll
+     Executable     = C:\WINDOWS\system32\Normaliz.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x00340000
+     Base size      = 36864
+
+     MODULE NAME:     urlmon.dll
+     Executable     = C:\WINDOWS\system32\urlmon.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x78130000
+     Base size      = 1265664
+
+     MODULE NAME:     OLEAUT32.dll
+     Executable     = C:\WINDOWS\system32\OLEAUT32.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77120000
+     Base size      = 581632
+
+     MODULE NAME:     MSVCP60.dll
+     Executable     = C:\WINDOWS\system32\MSVCP60.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x76080000
+     Base size      = 413696
+
+     MODULE NAME:     iertutil.dll
+     Executable     = C:\WINDOWS\system32\iertutil.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x3B500000
+     Base size      = 2019328
+
+     MODULE NAME:     VERSION.dll
+     Executable     = C:\WINDOWS\system32\VERSION.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77C00000
+     Base size      = 32768
+
+     MODULE NAME:     CRYPT32.dll
+     Executable     = C:\WINDOWS\system32\CRYPT32.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77A80000
+     Base size      = 618496
+
+     MODULE NAME:     MSASN1.dll
+     Executable     = C:\WINDOWS\system32\MSASN1.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77B20000
+     Base size      = 73728
+
+     MODULE NAME:     msi.dll
+     Executable     = C:\WINDOWS\system32\msi.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x3FDE0000
+     Base size      = 4489216
+
+     MODULE NAME:     IMM32.DLL
+     Executable     = C:\WINDOWS\system32\IMM32.DLL
+     Process ID     = 0x00000750
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x76390000
+     Base size      = 118784
+
+     MODULE NAME:     comctl32.dll
+     Executable     = C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.7660_x-ww_936580bb\comctl32.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0x0004
+     Ref count (p)  = 0x0004
+     Base address   = 0x773D0000
+     Base size      = 1060864
+
+     MODULE NAME:     comctl32.dll
+     Executable     = C:\WINDOWS\system32\comctl32.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x5D090000
+     Base size      = 630784
+
+     MODULE NAME:     uxtheme.dll
+     Executable     = C:\WINDOWS\system32\uxtheme.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x5AD70000
+     Base size      = 229376
+
+     MODULE NAME:     ws2_32.dll
+     Executable     = C:\WINDOWS\system32\ws2_32.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0x000A
+     Ref count (p)  = 0x000A
+     Base address   = 0x71AB0000
+     Base size      = 94208
+
+     MODULE NAME:     WS2HELP.dll
+     Executable     = C:\WINDOWS\system32\WS2HELP.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0x000C
+     Ref count (p)  = 0x000C
+     Base address   = 0x71AA0000
+     Base size      = 32768
+
+     MODULE NAME:     userenv.dll
+     Executable     = C:\WINDOWS\system32\userenv.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0x0003
+     Ref count (p)  = 0x0003
+     Base address   = 0x769C0000
+     Base size      = 737280
+
+     MODULE NAME:     netapi32.dll
+     Executable     = C:\WINDOWS\system32\netapi32.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0x0005
+     Ref count (p)  = 0x0005
+     Base address   = 0x5B860000
+     Base size      = 352256
+
+     MODULE NAME:     wintrust.dll
+     Executable     = C:\WINDOWS\system32\wintrust.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x76C30000
+     Base size      = 188416
+
+     MODULE NAME:     IMAGEHLP.dll
+     Executable     = C:\WINDOWS\system32\IMAGEHLP.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x76C90000
+     Base size      = 167936
+
+     MODULE NAME:     schannel.dll
+     Executable     = C:\WINDOWS\system32\schannel.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x767F0000
+     Base size      = 176128
+
+     MODULE NAME:     RASAPI32.dll
+     Executable     = C:\WINDOWS\system32\RASAPI32.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x76EE0000
+     Base size      = 245760
+
+     MODULE NAME:     rasman.dll
+     Executable     = C:\WINDOWS\system32\rasman.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0x0003
+     Ref count (p)  = 0x0003
+     Base address   = 0x76E90000
+     Base size      = 73728
+
+     MODULE NAME:     TAPI32.dll
+     Executable     = C:\WINDOWS\system32\TAPI32.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x76EB0000
+     Base size      = 192512
+
+     MODULE NAME:     rtutils.dll
+     Executable     = C:\WINDOWS\system32\rtutils.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0x0003
+     Ref count (p)  = 0x0003
+     Base address   = 0x76E80000
+     Base size      = 57344
+
+     MODULE NAME:     WINMM.dll
+     Executable     = C:\WINDOWS\system32\WINMM.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x76B40000
+     Base size      = 184320
+
+     MODULE NAME:     sensapi.dll
+     Executable     = C:\WINDOWS\system32\sensapi.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x722B0000
+     Base size      = 20480
+
+     MODULE NAME:     mswsock.dll
+     Executable     = C:\WINDOWS\System32\mswsock.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x71A50000
+     Base size      = 258048
+
+     MODULE NAME:     rasadhlp.dll
+     Executable     = C:\WINDOWS\system32\rasadhlp.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x76FC0000
+     Base size      = 24576
+
+     MODULE NAME:     DNSAPI.dll
+     Executable     = C:\WINDOWS\system32\DNSAPI.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x76F20000
+     Base size      = 163840
+
+     MODULE NAME:     iphlpapi.dll
+     Executable     = C:\WINDOWS\system32\iphlpapi.dll
+     Process ID     = 0x00000750
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x76D60000
+     Base size      = 102400
+
+     THREAD ID      = 0x00000754
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000460
+     Base priority  = 8
+     Delta priority = 0
+
+
+=====================================================
+PROCESS NAME:  svchost.exe
+-------------------------------------------------------
+  WARNING: OpenProcess failed with error 5 (Access is denied)
+  Process ID        = 0x0000079C
+  Thread count      = 4
+  Parent process ID = 0x000002DC
+  Priority base     = 8
+  WARNING: CreateToolhelp32Snapshot (of modules) failed with error 5 (Access is denied)
+
+     THREAD ID      = 0x000007A0
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000007B0
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000007B4
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000007B8
+     Base priority  = 8
+     Delta priority = 0
+
+
+=====================================================
+PROCESS NAME:  VGAuthService.exe
+-------------------------------------------------------
+  WARNING: OpenProcess failed with error 5 (Access is denied)
+  Process ID        = 0x000000A4
+  Thread count      = 2
+  Parent process ID = 0x000002DC
+  Priority base     = 8
+  WARNING: CreateToolhelp32Snapshot (of modules) failed with error 5 (Access is denied)
+
+     THREAD ID      = 0x000000B4
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000100
+     Base priority  = 8
+     Delta priority = 0
+
+
+=====================================================
+PROCESS NAME:  vmtoolsd.exe
+-------------------------------------------------------
+  WARNING: OpenProcess failed with error 5 (Access is denied)
+  Process ID        = 0x00000104
+  Thread count      = 8
+  Parent process ID = 0x000002DC
+  Priority base     = 13
+  WARNING: CreateToolhelp32Snapshot (of modules) failed with error 5 (Access is denied)
+
+     THREAD ID      = 0x00000108
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000011C
+     Base priority  = 15
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000218
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000230
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000023C
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000248
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000024C
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000258
+     Base priority  = 13
+     Delta priority = 0
+
+
+=====================================================
+PROCESS NAME:  wmiprvse.exe
+-------------------------------------------------------
+  WARNING: OpenProcess failed with error 5 (Access is denied)
+  Process ID        = 0x00000298
+  Thread count      = 14
+  Parent process ID = 0x000003AC
+  Priority base     = 8
+  WARNING: CreateToolhelp32Snapshot (of modules) failed with error 5 (Access is denied)
+
+     THREAD ID      = 0x0000029C
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000330
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000364
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000370
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000654
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000268
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000630
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000674
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000026C
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000003BC
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000032C
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000554
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000069C
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000694
+     Base priority  = 8
+     Delta priority = 0
+
+
+=====================================================
+PROCESS NAME:  alg.exe
+-------------------------------------------------------
+  WARNING: OpenProcess failed with error 5 (Access is denied)
+  Process ID        = 0x000006C4
+  Thread count      = 6
+  Parent process ID = 0x000002DC
+  Priority base     = 8
+  WARNING: CreateToolhelp32Snapshot (of modules) failed with error 5 (Access is denied)
+
+     THREAD ID      = 0x000006C8
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000006D0
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000006DC
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000718
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000724
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000678
+     Base priority  = 8
+     Delta priority = 0
+
+
+=====================================================
+PROCESS NAME:  cmd.exe
+-------------------------------------------------------
+  Process ID        = 0x00000764
+  Thread count      = 1
+  Parent process ID = 0x000006B8
+  Priority base     = 8
+  Priority class    = 32
+
+     MODULE NAME:     cmd.exe
+     Executable     = C:\WINDOWS\system32\cmd.exe
+     Process ID     = 0x00000764
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x4AD00000
+     Base size      = 397312
+
+     MODULE NAME:     ntdll.dll
+     Executable     = C:\WINDOWS\system32\ntdll.dll
+     Process ID     = 0x00000764
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7EB30000
+     Base size      = 737280
+
+     MODULE NAME:     kernel32.dll
+     Executable     = C:\WINDOWS\system32\kernel32.dll
+     Process ID     = 0x00000764
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7C800000
+     Base size      = 1011712
+
+     MODULE NAME:     msvcrt.dll
+     Executable     = C:\WINDOWS\system32\msvcrt.dll
+     Process ID     = 0x00000764
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77C10000
+     Base size      = 360448
+
+     MODULE NAME:     USER32.dll
+     Executable     = C:\WINDOWS\system32\USER32.dll
+     Process ID     = 0x00000764
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7E410000
+     Base size      = 593920
+
+     MODULE NAME:     GDI32.dll
+     Executable     = C:\WINDOWS\system32\GDI32.dll
+     Process ID     = 0x00000764
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77F10000
+     Base size      = 303104
+
+     MODULE NAME:     ShimEng.dll
+     Executable     = C:\WINDOWS\system32\ShimEng.dll
+     Process ID     = 0x00000764
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x5CB70000
+     Base size      = 155648
+
+     MODULE NAME:     AcGenral.DLL
+     Executable     = C:\WINDOWS\AppPatch\AcGenral.DLL
+     Process ID     = 0x00000764
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x6F880000
+     Base size      = 1875968
+
+     MODULE NAME:     ADVAPI32.dll
+     Executable     = C:\WINDOWS\system32\ADVAPI32.dll
+     Process ID     = 0x00000764
+     Ref count (g)  = 0x001E
+     Ref count (p)  = 0x001E
+     Base address   = 0x77DD0000
+     Base size      = 634880
+
+     MODULE NAME:     RPCRT4.dll
+     Executable     = C:\WINDOWS\system32\RPCRT4.dll
+     Process ID     = 0x00000764
+     Ref count (g)  = 0x000C
+     Ref count (p)  = 0x000C
+     Base address   = 0x77E70000
+     Base size      = 602112
+
+     MODULE NAME:     Secur32.dll
+     Executable     = C:\WINDOWS\system32\Secur32.dll
+     Process ID     = 0x00000764
+     Ref count (g)  = 0x0007
+     Ref count (p)  = 0x0007
+     Base address   = 0x77FE0000
+     Base size      = 69632
+
+     MODULE NAME:     WINMM.dll
+     Executable     = C:\WINDOWS\system32\WINMM.dll
+     Process ID     = 0x00000764
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x76B40000
+     Base size      = 184320
+
+     MODULE NAME:     ole32.dll
+     Executable     = C:\WINDOWS\system32\ole32.dll
+     Process ID     = 0x00000764
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x7EBF0000
+     Base size      = 1314816
+
+     MODULE NAME:     OLEAUT32.dll
+     Executable     = C:\WINDOWS\system32\OLEAUT32.dll
+     Process ID     = 0x00000764
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x77120000
+     Base size      = 581632
+
+     MODULE NAME:     MSVCP60.dll
+     Executable     = C:\WINDOWS\system32\MSVCP60.dll
+     Process ID     = 0x00000764
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x76080000
+     Base size      = 413696
+
+     MODULE NAME:     MSACM32.dll
+     Executable     = C:\WINDOWS\system32\MSACM32.dll
+     Process ID     = 0x00000764
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x77BE0000
+     Base size      = 86016
+
+     MODULE NAME:     VERSION.dll
+     Executable     = C:\WINDOWS\system32\VERSION.dll
+     Process ID     = 0x00000764
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x77C00000
+     Base size      = 32768
+
+     MODULE NAME:     SHELL32.dll
+     Executable     = C:\WINDOWS\system32\SHELL32.dll
+     Process ID     = 0x00000764
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x7C9C0000
+     Base size      = 8486912
+
+     MODULE NAME:     SHLWAPI.dll
+     Executable     = C:\WINDOWS\system32\SHLWAPI.dll
+     Process ID     = 0x00000764
+     Ref count (g)  = 0x0003
+     Ref count (p)  = 0x0003
+     Base address   = 0x77F60000
+     Base size      = 487424
+
+     MODULE NAME:     USERENV.dll
+     Executable     = C:\WINDOWS\system32\USERENV.dll
+     Process ID     = 0x00000764
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x769C0000
+     Base size      = 737280
+
+     MODULE NAME:     UxTheme.dll
+     Executable     = C:\WINDOWS\system32\UxTheme.dll
+     Process ID     = 0x00000764
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x5AD70000
+     Base size      = 229376
+
+     MODULE NAME:     IMM32.DLL
+     Executable     = C:\WINDOWS\system32\IMM32.DLL
+     Process ID     = 0x00000764
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x76390000
+     Base size      = 118784
+
+     MODULE NAME:     comctl32.dll
+     Executable     = C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.7660_x-ww_936580bb\comctl32.dll
+     Process ID     = 0x00000764
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x773D0000
+     Base size      = 1060864
+
+     MODULE NAME:     comctl32.dll
+     Executable     = C:\WINDOWS\system32\comctl32.dll
+     Process ID     = 0x00000764
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x5D090000
+     Base size      = 630784
+
+     MODULE NAME:     Apphelp.dll
+     Executable     = C:\WINDOWS\system32\Apphelp.dll
+     Process ID     = 0x00000764
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x77B40000
+     Base size      = 139264
+
+     THREAD ID      = 0x0000076C
+     Base priority  = 8
+     Delta priority = 0
+
+
+=====================================================
+PROCESS NAME:  Procmon.exe
+-------------------------------------------------------
+  Process ID        = 0x00000788
+  Thread count      = 13
+  Parent process ID = 0x000006B8
+  Priority base     = 8
+  Priority class    = 32
+
+     MODULE NAME:     Procmon.exe
+     Executable     = C:\Documents and Settings\Administrator\Desktop\Tools\SysinternalsSuite\Procmon.exe
+     Process ID     = 0x00000788
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x00400000
+     Base size      = 2547712
+
+     MODULE NAME:     ntdll.dll
+     Executable     = C:\WINDOWS\system32\ntdll.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7EB30000
+     Base size      = 737280
+
+     MODULE NAME:     kernel32.dll
+     Executable     = C:\WINDOWS\system32\kernel32.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7C800000
+     Base size      = 1011712
+
+     MODULE NAME:     WS2_32.dll
+     Executable     = C:\WINDOWS\system32\WS2_32.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x71AB0000
+     Base size      = 94208
+
+     MODULE NAME:     ADVAPI32.dll
+     Executable     = C:\WINDOWS\system32\ADVAPI32.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77DD0000
+     Base size      = 634880
+
+     MODULE NAME:     RPCRT4.dll
+     Executable     = C:\WINDOWS\system32\RPCRT4.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77E70000
+     Base size      = 602112
+
+     MODULE NAME:     Secur32.dll
+     Executable     = C:\WINDOWS\system32\Secur32.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77FE0000
+     Base size      = 69632
+
+     MODULE NAME:     msvcrt.dll
+     Executable     = C:\WINDOWS\system32\msvcrt.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77C10000
+     Base size      = 360448
+
+     MODULE NAME:     WS2HELP.dll
+     Executable     = C:\WINDOWS\system32\WS2HELP.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x71AA0000
+     Base size      = 32768
+
+     MODULE NAME:     VERSION.dll
+     Executable     = C:\WINDOWS\system32\VERSION.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77C00000
+     Base size      = 32768
+
+     MODULE NAME:     NETAPI32.dll
+     Executable     = C:\WINDOWS\system32\NETAPI32.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x5B860000
+     Base size      = 352256
+
+     MODULE NAME:     COMCTL32.dll
+     Executable     = C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.7660_x-ww_936580bb\COMCTL32.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x773D0000
+     Base size      = 1060864
+
+     MODULE NAME:     GDI32.dll
+     Executable     = C:\WINDOWS\system32\GDI32.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77F10000
+     Base size      = 303104
+
+     MODULE NAME:     USER32.dll
+     Executable     = C:\WINDOWS\system32\USER32.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7E410000
+     Base size      = 593920
+
+     MODULE NAME:     SHLWAPI.dll
+     Executable     = C:\WINDOWS\system32\SHLWAPI.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77F60000
+     Base size      = 487424
+
+     MODULE NAME:     FLTLIB.DLL
+     Executable     = C:\WINDOWS\system32\FLTLIB.DLL
+     Process ID     = 0x00000788
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x4FFE0000
+     Base size      = 32768
+
+     MODULE NAME:     COMDLG32.dll
+     Executable     = C:\WINDOWS\system32\COMDLG32.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x763B0000
+     Base size      = 299008
+
+     MODULE NAME:     SHELL32.dll
+     Executable     = C:\WINDOWS\system32\SHELL32.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7C9C0000
+     Base size      = 8486912
+
+     MODULE NAME:     ole32.dll
+     Executable     = C:\WINDOWS\system32\ole32.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7EBF0000
+     Base size      = 1314816
+
+     MODULE NAME:     OLEAUT32.dll
+     Executable     = C:\WINDOWS\system32\OLEAUT32.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77120000
+     Base size      = 581632
+
+     MODULE NAME:     MSVCP60.dll
+     Executable     = C:\WINDOWS\system32\MSVCP60.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x76080000
+     Base size      = 413696
+
+     MODULE NAME:     IMM32.DLL
+     Executable     = C:\WINDOWS\system32\IMM32.DLL
+     Process ID     = 0x00000788
+     Ref count (g)  = 0x0004
+     Ref count (p)  = 0x0004
+     Base address   = 0x76390000
+     Base size      = 118784
+
+     MODULE NAME:     uxtheme.dll
+     Executable     = C:\WINDOWS\system32\uxtheme.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0x0004
+     Ref count (p)  = 0x0004
+     Base address   = 0x5AD70000
+     Base size      = 229376
+
+     MODULE NAME:     dbghelp.dll
+     Executable     = C:\WINDOWS\system32\dbghelp.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x59A60000
+     Base size      = 659456
+
+     MODULE NAME:     msctfime.ime
+     Executable     = C:\WINDOWS\system32\msctfime.ime
+     Process ID     = 0x00000788
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x755C0000
+     Base size      = 188416
+
+     MODULE NAME:     CLBCATQ.DLL
+     Executable     = C:\WINDOWS\system32\CLBCATQ.DLL
+     Process ID     = 0x00000788
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x76FD0000
+     Base size      = 520192
+
+     MODULE NAME:     COMRes.dll
+     Executable     = C:\WINDOWS\system32\COMRes.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x77050000
+     Base size      = 806912
+
+     MODULE NAME:     wbemprox.dll
+     Executable     = C:\WINDOWS\system32\wbem\wbemprox.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x74EF0000
+     Base size      = 32768
+
+     MODULE NAME:     wbemcomn.dll
+     Executable     = C:\WINDOWS\system32\wbem\wbemcomn.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x75290000
+     Base size      = 225280
+
+     MODULE NAME:     xpsp2res.dll
+     Executable     = C:\WINDOWS\system32\xpsp2res.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x320A0000
+     Base size      = 2904064
+
+     MODULE NAME:     wbemsvc.dll
+     Executable     = C:\WINDOWS\system32\wbem\wbemsvc.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x74ED0000
+     Base size      = 57344
+
+     MODULE NAME:     fastprox.dll
+     Executable     = C:\WINDOWS\system32\wbem\fastprox.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x75690000
+     Base size      = 483328
+
+     MODULE NAME:     NTDSAPI.dll
+     Executable     = C:\WINDOWS\system32\NTDSAPI.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x767A0000
+     Base size      = 81920
+
+     MODULE NAME:     DNSAPI.dll
+     Executable     = C:\WINDOWS\system32\DNSAPI.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0x0003
+     Ref count (p)  = 0x0003
+     Base address   = 0x76F20000
+     Base size      = 163840
+
+     MODULE NAME:     WLDAP32.dll
+     Executable     = C:\WINDOWS\system32\WLDAP32.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x76F60000
+     Base size      = 180224
+
+     MODULE NAME:     appHelp.dll
+     Executable     = C:\WINDOWS\system32\appHelp.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x77B40000
+     Base size      = 139264
+
+     MODULE NAME:     cscui.dll
+     Executable     = C:\WINDOWS\System32\cscui.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x77A20000
+     Base size      = 344064
+
+     MODULE NAME:     CSCDLL.dll
+     Executable     = C:\WINDOWS\System32\CSCDLL.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x76600000
+     Base size      = 118784
+
+     MODULE NAME:     SETUPAPI.dll
+     Executable     = C:\WINDOWS\system32\SETUPAPI.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x77920000
+     Base size      = 995328
+
+     MODULE NAME:     mswsock.dll
+     Executable     = C:\WINDOWS\System32\mswsock.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x71A50000
+     Base size      = 258048
+
+     MODULE NAME:     iphlpapi.dll
+     Executable     = C:\WINDOWS\system32\iphlpapi.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x76D60000
+     Base size      = 102400
+
+     MODULE NAME:     wshbth.dll
+     Executable     = C:\WINDOWS\system32\wshbth.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x751D0000
+     Base size      = 122880
+
+     MODULE NAME:     winrnr.dll
+     Executable     = C:\WINDOWS\System32\winrnr.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x76FB0000
+     Base size      = 32768
+
+     MODULE NAME:     rasadhlp.dll
+     Executable     = C:\WINDOWS\system32\rasadhlp.dll
+     Process ID     = 0x00000788
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x76FC0000
+     Base size      = 24576
+
+     THREAD ID      = 0x0000077C
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000374
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000088
+     Base priority  = 15
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000001D0
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000778
+     Base priority  = 15
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000000C8
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000504
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000001C8
+     Base priority  = 15
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000178
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000006A8
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000006FC
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000001EC
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000006E0
+     Base priority  = 8
+     Delta priority = 0
+
+
+=====================================================
+PROCESS NAME:  procexp.exe
+-------------------------------------------------------
+  Process ID        = 0x000004C4
+  Thread count      = 9
+  Parent process ID = 0x000006B8
+  Priority base     = 13
+  Priority class    = 128
+
+     MODULE NAME:     procexp.exe
+     Executable     = C:\Documents and Settings\Administrator\Desktop\Tools\SysinternalsSuite\procexp.exe
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x00400000
+     Base size      = 2633728
+
+     MODULE NAME:     ntdll.dll
+     Executable     = C:\WINDOWS\system32\ntdll.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7EB30000
+     Base size      = 737280
+
+     MODULE NAME:     kernel32.dll
+     Executable     = C:\WINDOWS\system32\kernel32.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7C800000
+     Base size      = 1011712
+
+     MODULE NAME:     SHLWAPI.dll
+     Executable     = C:\WINDOWS\system32\SHLWAPI.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77F60000
+     Base size      = 487424
+
+     MODULE NAME:     ADVAPI32.dll
+     Executable     = C:\WINDOWS\system32\ADVAPI32.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77DD0000
+     Base size      = 634880
+
+     MODULE NAME:     RPCRT4.dll
+     Executable     = C:\WINDOWS\system32\RPCRT4.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77E70000
+     Base size      = 602112
+
+     MODULE NAME:     Secur32.dll
+     Executable     = C:\WINDOWS\system32\Secur32.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77FE0000
+     Base size      = 69632
+
+     MODULE NAME:     GDI32.dll
+     Executable     = C:\WINDOWS\system32\GDI32.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77F10000
+     Base size      = 303104
+
+     MODULE NAME:     USER32.dll
+     Executable     = C:\WINDOWS\system32\USER32.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7E410000
+     Base size      = 593920
+
+     MODULE NAME:     msvcrt.dll
+     Executable     = C:\WINDOWS\system32\msvcrt.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77C10000
+     Base size      = 360448
+
+     MODULE NAME:     WS2_32.dll
+     Executable     = C:\WINDOWS\system32\WS2_32.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x71AB0000
+     Base size      = 94208
+
+     MODULE NAME:     WS2HELP.dll
+     Executable     = C:\WINDOWS\system32\WS2HELP.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x71AA0000
+     Base size      = 32768
+
+     MODULE NAME:     MPR.dll
+     Executable     = C:\WINDOWS\system32\MPR.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x71B20000
+     Base size      = 73728
+
+     MODULE NAME:     COMCTL32.dll
+     Executable     = C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.7660_x-ww_936580bb\COMCTL32.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x773D0000
+     Base size      = 1060864
+
+     MODULE NAME:     VERSION.dll
+     Executable     = C:\WINDOWS\system32\VERSION.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77C00000
+     Base size      = 32768
+
+     MODULE NAME:     credui.dll
+     Executable     = C:\WINDOWS\system32\credui.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x76C00000
+     Base size      = 188416
+
+     MODULE NAME:     SHELL32.dll
+     Executable     = C:\WINDOWS\system32\SHELL32.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7C9C0000
+     Base size      = 8486912
+
+     MODULE NAME:     SETUPAPI.dll
+     Executable     = C:\WINDOWS\system32\SETUPAPI.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77920000
+     Base size      = 995328
+
+     MODULE NAME:     CRYPT32.dll
+     Executable     = C:\WINDOWS\system32\CRYPT32.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77A80000
+     Base size      = 618496
+
+     MODULE NAME:     MSASN1.dll
+     Executable     = C:\WINDOWS\system32\MSASN1.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77B20000
+     Base size      = 73728
+
+     MODULE NAME:     COMDLG32.dll
+     Executable     = C:\WINDOWS\system32\COMDLG32.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x763B0000
+     Base size      = 299008
+
+     MODULE NAME:     ole32.dll
+     Executable     = C:\WINDOWS\system32\ole32.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7EBF0000
+     Base size      = 1314816
+
+     MODULE NAME:     OLEAUT32.dll
+     Executable     = C:\WINDOWS\system32\OLEAUT32.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77120000
+     Base size      = 581632
+
+     MODULE NAME:     MSVCP60.dll
+     Executable     = C:\WINDOWS\system32\MSVCP60.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x76080000
+     Base size      = 413696
+
+     MODULE NAME:     WINHTTP.dll
+     Executable     = C:\WINDOWS\system32\WINHTTP.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x4D4F0000
+     Base size      = 368640
+
+     MODULE NAME:     PSAPI.DLL
+     Executable     = C:\WINDOWS\system32\PSAPI.DLL
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x76BF0000
+     Base size      = 45056
+
+     MODULE NAME:     IMM32.DLL
+     Executable     = C:\WINDOWS\system32\IMM32.DLL
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0003
+     Ref count (p)  = 0x0003
+     Base address   = 0x76390000
+     Base size      = 118784
+
+     MODULE NAME:     uxtheme.dll
+     Executable     = C:\WINDOWS\system32\uxtheme.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0004
+     Ref count (p)  = 0x0004
+     Base address   = 0x5AD70000
+     Base size      = 229376
+
+     MODULE NAME:     dbghelp.dll
+     Executable     = C:\WINDOWS\system32\dbghelp.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0003
+     Ref count (p)  = 0x0003
+     Base address   = 0x59A60000
+     Base size      = 659456
+
+     MODULE NAME:     aclui.dll
+     Executable     = C:\WINDOWS\system32\aclui.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x71550000
+     Base size      = 126976
+
+     MODULE NAME:     iphlpapi.dll
+     Executable     = C:\WINDOWS\system32\iphlpapi.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x000A
+     Ref count (p)  = 0x000A
+     Base address   = 0x76D60000
+     Base size      = 102400
+
+     MODULE NAME:     wtsapi32.dll
+     Executable     = C:\WINDOWS\system32\wtsapi32.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0008
+     Ref count (p)  = 0x0008
+     Base address   = 0x76F50000
+     Base size      = 32768
+
+     MODULE NAME:     WINSTA.dll
+     Executable     = C:\WINDOWS\system32\WINSTA.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x000B
+     Ref count (p)  = 0x000B
+     Base address   = 0x76360000
+     Base size      = 65536
+
+     MODULE NAME:     NETAPI32.dll
+     Executable     = C:\WINDOWS\system32\NETAPI32.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x000F
+     Ref count (p)  = 0x000F
+     Base address   = 0x5B860000
+     Base size      = 352256
+
+     MODULE NAME:     imagehlp.dll
+     Executable     = C:\WINDOWS\system32\imagehlp.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x76C90000
+     Base size      = 167936
+
+     MODULE NAME:     mscoree.dll
+     Executable     = C:\WINDOWS\system32\mscoree.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0007
+     Ref count (p)  = 0x0007
+     Base address   = 0x79000000
+     Base size      = 303104
+
+     MODULE NAME:     mscoreei.dll
+     Executable     = C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x603B0000
+     Base size      = 417792
+
+     MODULE NAME:     CorperfmonExt.dll
+     Executable     = C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\CorperfmonExt.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x60310000
+     Base size      = 135168
+
+     MODULE NAME:     MSVCR100_CLR0400.dll
+     Executable     = C:\WINDOWS\system32\MSVCR100_CLR0400.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0003
+     Ref count (p)  = 0x0003
+     Base address   = 0x79060000
+     Base size      = 778240
+
+     MODULE NAME:     PSCHDPRF.DLL
+     Executable     = C:\WINDOWS\system32\PSCHDPRF.DLL
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x5E1E0000
+     Base size      = 24576
+
+     MODULE NAME:     TRAFFIC.dll
+     Executable     = C:\WINDOWS\system32\TRAFFIC.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x73590000
+     Base size      = 45056
+
+     MODULE NAME:     WMI.dll
+     Executable     = C:\WINDOWS\system32\WMI.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x76D30000
+     Base size      = 16384
+
+     MODULE NAME:     rasman.dll
+     Executable     = C:\WINDOWS\system32\rasman.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x76E90000
+     Base size      = 73728
+
+     MODULE NAME:     rsvpperf.dll
+     Executable     = C:\WINDOWS\System32\rsvpperf.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x5D400000
+     Base size      = 24576
+
+     MODULE NAME:     TAPIPERF.DLL
+     Executable     = C:\WINDOWS\system32\TAPIPERF.DLL
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x5B7E0000
+     Base size      = 20480
+
+     MODULE NAME:     netfxperf.dll
+     Executable     = C:\WINDOWS\system32\netfxperf.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x60630000
+     Base size      = 57344
+
+     MODULE NAME:     perfcounter.dll
+     Executable     = C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\perfcounter.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x60960000
+     Base size      = 126976
+
+     MODULE NAME:     pdh.dll
+     Executable     = C:\WINDOWS\system32\pdh.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x74000000
+     Base size      = 352256
+
+     MODULE NAME:     ODBC32.dll
+     Executable     = C:\WINDOWS\system32\ODBC32.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x74320000
+     Base size      = 253952
+
+     MODULE NAME:     odbcbcp.dll
+     Executable     = C:\WINDOWS\system32\odbcbcp.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x711A0000
+     Base size      = 24576
+
+     MODULE NAME:     odbcint.dll
+     Executable     = C:\WINDOWS\system32\odbcint.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x01680000
+     Base size      = 94208
+
+     MODULE NAME:     msctfime.ime
+     Executable     = C:\WINDOWS\system32\msctfime.ime
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x755C0000
+     Base size      = 188416
+
+     MODULE NAME:     Wintrust.dll
+     Executable     = C:\WINDOWS\system32\Wintrust.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x76C30000
+     Base size      = 188416
+
+     MODULE NAME:     Powrprof.dll
+     Executable     = C:\WINDOWS\system32\Powrprof.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0003
+     Ref count (p)  = 0x0003
+     Base address   = 0x74AD0000
+     Base size      = 32768
+
+     MODULE NAME:     NTMARTA.DLL
+     Executable     = C:\WINDOWS\system32\NTMARTA.DLL
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x77690000
+     Base size      = 135168
+
+     MODULE NAME:     SAMLIB.dll
+     Executable     = C:\WINDOWS\system32\SAMLIB.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x71BF0000
+     Base size      = 77824
+
+     MODULE NAME:     WLDAP32.dll
+     Executable     = C:\WINDOWS\system32\WLDAP32.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0003
+     Ref count (p)  = 0x0003
+     Base address   = 0x76F60000
+     Base size      = 180224
+
+     MODULE NAME:     CLBCATQ.DLL
+     Executable     = C:\WINDOWS\system32\CLBCATQ.DLL
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x76FD0000
+     Base size      = 520192
+
+     MODULE NAME:     COMRes.dll
+     Executable     = C:\WINDOWS\system32\COMRes.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x77050000
+     Base size      = 806912
+
+     MODULE NAME:     mscordbi.dll
+     Executable     = C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\mscordbi.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x63E90000
+     Base size      = 307200
+
+     MODULE NAME:     MSVCR80.dll
+     Executable     = C:\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.3053_x-ww_b80fa8ca\MSVCR80.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x78130000
+     Base size      = 634880
+
+     MODULE NAME:     appHelp.dll
+     Executable     = C:\WINDOWS\system32\appHelp.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x77B40000
+     Base size      = 139264
+
+     MODULE NAME:     cscui.dll
+     Executable     = C:\WINDOWS\System32\cscui.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x77A20000
+     Base size      = 344064
+
+     MODULE NAME:     CSCDLL.dll
+     Executable     = C:\WINDOWS\System32\CSCDLL.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x76600000
+     Base size      = 118784
+
+     MODULE NAME:     wbemprox.dll
+     Executable     = C:\WINDOWS\system32\wbem\wbemprox.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x74EF0000
+     Base size      = 32768
+
+     MODULE NAME:     wbemcomn.dll
+     Executable     = C:\WINDOWS\system32\wbem\wbemcomn.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x75290000
+     Base size      = 225280
+
+     MODULE NAME:     xpsp2res.dll
+     Executable     = C:\WINDOWS\system32\xpsp2res.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x01C10000
+     Base size      = 2904064
+
+     MODULE NAME:     wbemsvc.dll
+     Executable     = C:\WINDOWS\system32\wbem\wbemsvc.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x74ED0000
+     Base size      = 57344
+
+     MODULE NAME:     fastprox.dll
+     Executable     = C:\WINDOWS\system32\wbem\fastprox.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x75690000
+     Base size      = 483328
+
+     MODULE NAME:     NTDSAPI.dll
+     Executable     = C:\WINDOWS\system32\NTDSAPI.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x767A0000
+     Base size      = 81920
+
+     MODULE NAME:     DNSAPI.dll
+     Executable     = C:\WINDOWS\system32\DNSAPI.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x76F20000
+     Base size      = 163840
+
+     MODULE NAME:     mstask.dll
+     Executable     = C:\WINDOWS\system32\mstask.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x75830000
+     Base size      = 282624
+
+     MODULE NAME:     USERENV.dll
+     Executable     = C:\WINDOWS\system32\USERENV.dll
+     Process ID     = 0x000004C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x769C0000
+     Base size      = 737280
+
+     THREAD ID      = 0x000004B8
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000004E8
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000004F4
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000004EC
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000006F4
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000004F8
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000324
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000004DC
+     Base priority  = 13
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000154
+     Base priority  = 13
+     Delta priority = 0
+
+
+=====================================================
+PROCESS NAME:  wmiprvse.exe
+-------------------------------------------------------
+  WARNING: OpenProcess failed with error 5 (Access is denied)
+  Process ID        = 0x00000428
+  Thread count      = 6
+  Parent process ID = 0x000003AC
+  Priority base     = 8
+  WARNING: CreateToolhelp32Snapshot (of modules) failed with error 5 (Access is denied)
+
+     THREAD ID      = 0x00000604
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000590
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000518
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000003C4
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000003E8
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x0000063C
+     Base priority  = 8
+     Delta priority = 0
+
+
+=====================================================
+PROCESS NAME:  FakeNet.exe
+-------------------------------------------------------
+  Process ID        = 0x000007C4
+  Thread count      = 17
+  Parent process ID = 0x000006B8
+  Priority base     = 8
+  Priority class    = 32
+
+     MODULE NAME:     FakeNet.exe
+     Executable     = C:\Documents and Settings\Administrator\Desktop\Tools\Fakenet1.0b\FakeNet.exe
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x00400000
+     Base size      = 1032192
+
+     MODULE NAME:     ntdll.dll
+     Executable     = C:\WINDOWS\system32\ntdll.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7EB30000
+     Base size      = 737280
+
+     MODULE NAME:     kernel32.dll
+     Executable     = C:\WINDOWS\system32\kernel32.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7C800000
+     Base size      = 1011712
+
+     MODULE NAME:     USER32.dll
+     Executable     = C:\WINDOWS\system32\USER32.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7E410000
+     Base size      = 593920
+
+     MODULE NAME:     GDI32.dll
+     Executable     = C:\WINDOWS\system32\GDI32.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77F10000
+     Base size      = 303104
+
+     MODULE NAME:     ADVAPI32.dll
+     Executable     = C:\WINDOWS\system32\ADVAPI32.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77DD0000
+     Base size      = 634880
+
+     MODULE NAME:     RPCRT4.dll
+     Executable     = C:\WINDOWS\system32\RPCRT4.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77E70000
+     Base size      = 602112
+
+     MODULE NAME:     Secur32.dll
+     Executable     = C:\WINDOWS\system32\Secur32.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77FE0000
+     Base size      = 69632
+
+     MODULE NAME:     IPHLPAPI.DLL
+     Executable     = C:\WINDOWS\system32\IPHLPAPI.DLL
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x76D60000
+     Base size      = 102400
+
+     MODULE NAME:     msvcrt.dll
+     Executable     = C:\WINDOWS\system32\msvcrt.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77C10000
+     Base size      = 360448
+
+     MODULE NAME:     WS2_32.dll
+     Executable     = C:\WINDOWS\system32\WS2_32.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x71AB0000
+     Base size      = 94208
+
+     MODULE NAME:     WS2HELP.dll
+     Executable     = C:\WINDOWS\system32\WS2HELP.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x71AA0000
+     Base size      = 32768
+
+     MODULE NAME:     IMM32.DLL
+     Executable     = C:\WINDOWS\system32\IMM32.DLL
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x76390000
+     Base size      = 118784
+
+     MODULE NAME:     python27.dll
+     Executable     = C:\Documents and Settings\Administrator\Desktop\Tools\Fakenet1.0b\python27.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x1E000000
+     Base size      = 2256896
+
+     MODULE NAME:     SHELL32.dll
+     Executable     = C:\WINDOWS\system32\SHELL32.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0004
+     Ref count (p)  = 0x0004
+     Base address   = 0x7C9C0000
+     Base size      = 8486912
+
+     MODULE NAME:     SHLWAPI.dll
+     Executable     = C:\WINDOWS\system32\SHLWAPI.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x000F
+     Ref count (p)  = 0x000F
+     Base address   = 0x77F60000
+     Base size      = 487424
+
+     MODULE NAME:     MSVCR90.dll
+     Executable     = C:\WINDOWS\WinSxS\x86_Microsoft.VC90.CRT_1fc8b3b9a1e18e3b_9.0.30729.4148_x-ww_d495ac4e\MSVCR90.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x78520000
+     Base size      = 667648
+
+     MODULE NAME:     comctl32.dll
+     Executable     = C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.7660_x-ww_936580bb\comctl32.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0006
+     Ref count (p)  = 0x0006
+     Base address   = 0x773D0000
+     Base size      = 1060864
+
+     MODULE NAME:     comctl32.dll
+     Executable     = C:\WINDOWS\system32\comctl32.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x5D090000
+     Base size      = 630784
+
+     MODULE NAME:     netman.dll
+     Executable     = C:\WINDOWS\system32\netman.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x77D00000
+     Base size      = 208896
+
+     MODULE NAME:     MPRAPI.dll
+     Executable     = C:\WINDOWS\system32\MPRAPI.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x76D40000
+     Base size      = 98304
+
+     MODULE NAME:     ACTIVEDS.dll
+     Executable     = C:\WINDOWS\system32\ACTIVEDS.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x77CC0000
+     Base size      = 204800
+
+     MODULE NAME:     adsldpc.dll
+     Executable     = C:\WINDOWS\system32\adsldpc.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x76E10000
+     Base size      = 151552
+
+     MODULE NAME:     NETAPI32.dll
+     Executable     = C:\WINDOWS\system32\NETAPI32.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0008
+     Ref count (p)  = 0x0008
+     Base address   = 0x5B860000
+     Base size      = 352256
+
+     MODULE NAME:     WLDAP32.dll
+     Executable     = C:\WINDOWS\system32\WLDAP32.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x76F60000
+     Base size      = 180224
+
+     MODULE NAME:     ATL.DLL
+     Executable     = C:\WINDOWS\system32\ATL.DLL
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0004
+     Ref count (p)  = 0x0004
+     Base address   = 0x76B20000
+     Base size      = 69632
+
+     MODULE NAME:     ole32.dll
+     Executable     = C:\WINDOWS\system32\ole32.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x000C
+     Ref count (p)  = 0x000C
+     Base address   = 0x7EBF0000
+     Base size      = 1314816
+
+     MODULE NAME:     OLEAUT32.dll
+     Executable     = C:\WINDOWS\system32\OLEAUT32.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x000A
+     Ref count (p)  = 0x000A
+     Base address   = 0x77120000
+     Base size      = 581632
+
+     MODULE NAME:     MSVCP60.dll
+     Executable     = C:\WINDOWS\system32\MSVCP60.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0004
+     Ref count (p)  = 0x0004
+     Base address   = 0x76080000
+     Base size      = 413696
+
+     MODULE NAME:     rtutils.dll
+     Executable     = C:\WINDOWS\system32\rtutils.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x000B
+     Ref count (p)  = 0x000B
+     Base address   = 0x76E80000
+     Base size      = 57344
+
+     MODULE NAME:     SAMLIB.dll
+     Executable     = C:\WINDOWS\system32\SAMLIB.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x71BF0000
+     Base size      = 77824
+
+     MODULE NAME:     SETUPAPI.dll
+     Executable     = C:\WINDOWS\system32\SETUPAPI.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x77920000
+     Base size      = 995328
+
+     MODULE NAME:     netshell.dll
+     Executable     = C:\WINDOWS\system32\netshell.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x76400000
+     Base size      = 1724416
+
+     MODULE NAME:     credui.dll
+     Executable     = C:\WINDOWS\system32\credui.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x76C00000
+     Base size      = 188416
+
+     MODULE NAME:     dot3api.dll
+     Executable     = C:\WINDOWS\system32\dot3api.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0003
+     Ref count (p)  = 0x0003
+     Base address   = 0x478C0000
+     Base size      = 40960
+
+     MODULE NAME:     dot3dlg.dll
+     Executable     = C:\WINDOWS\system32\dot3dlg.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x736D0000
+     Base size      = 24576
+
+     MODULE NAME:     OneX.DLL
+     Executable     = C:\WINDOWS\system32\OneX.DLL
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x5DCA0000
+     Base size      = 163840
+
+     MODULE NAME:     WTSAPI32.dll
+     Executable     = C:\WINDOWS\system32\WTSAPI32.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x76F50000
+     Base size      = 32768
+
+     MODULE NAME:     WINSTA.dll
+     Executable     = C:\WINDOWS\system32\WINSTA.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x76360000
+     Base size      = 65536
+
+     MODULE NAME:     CRYPT32.dll
+     Executable     = C:\WINDOWS\system32\CRYPT32.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x77A80000
+     Base size      = 618496
+
+     MODULE NAME:     MSASN1.dll
+     Executable     = C:\WINDOWS\system32\MSASN1.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x77B20000
+     Base size      = 73728
+
+     MODULE NAME:     eappcfg.dll
+     Executable     = C:\WINDOWS\system32\eappcfg.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x745B0000
+     Base size      = 139264
+
+     MODULE NAME:     eappprxy.dll
+     Executable     = C:\WINDOWS\system32\eappprxy.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x5DCD0000
+     Base size      = 57344
+
+     MODULE NAME:     RASAPI32.dll
+     Executable     = C:\WINDOWS\system32\RASAPI32.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x76EE0000
+     Base size      = 245760
+
+     MODULE NAME:     rasman.dll
+     Executable     = C:\WINDOWS\system32\rasman.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x76E90000
+     Base size      = 73728
+
+     MODULE NAME:     TAPI32.dll
+     Executable     = C:\WINDOWS\system32\TAPI32.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x76EB0000
+     Base size      = 192512
+
+     MODULE NAME:     WINMM.dll
+     Executable     = C:\WINDOWS\system32\WINMM.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x76B40000
+     Base size      = 184320
+
+     MODULE NAME:     WININET.dll
+     Executable     = C:\WINDOWS\system32\WININET.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x39990000
+     Base size      = 946176
+
+     MODULE NAME:     Normaliz.dll
+     Executable     = C:\WINDOWS\system32\Normaliz.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x009F0000
+     Base size      = 36864
+
+     MODULE NAME:     urlmon.dll
+     Executable     = C:\WINDOWS\system32\urlmon.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x78130000
+     Base size      = 1265664
+
+     MODULE NAME:     iertutil.dll
+     Executable     = C:\WINDOWS\system32\iertutil.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0002
+     Ref count (p)  = 0x0002
+     Base address   = 0x3B500000
+     Base size      = 2019328
+
+     MODULE NAME:     WZCSAPI.DLL
+     Executable     = C:\WINDOWS\system32\WZCSAPI.DLL
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x73030000
+     Base size      = 65536
+
+     MODULE NAME:     WZCSvc.DLL
+     Executable     = C:\WINDOWS\system32\WZCSvc.DLL
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x7DB10000
+     Base size      = 577536
+
+     MODULE NAME:     WMI.dll
+     Executable     = C:\WINDOWS\system32\WMI.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x76D30000
+     Base size      = 16384
+
+     MODULE NAME:     DHCPCSVC.DLL
+     Executable     = C:\WINDOWS\system32\DHCPCSVC.DLL
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x7D4B0000
+     Base size      = 139264
+
+     MODULE NAME:     DNSAPI.dll
+     Executable     = C:\WINDOWS\system32\DNSAPI.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x76F20000
+     Base size      = 163840
+
+     MODULE NAME:     EapolQec.dll
+     Executable     = C:\WINDOWS\system32\EapolQec.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x72810000
+     Base size      = 45056
+
+     MODULE NAME:     QUtil.dll
+     Executable     = C:\WINDOWS\system32\QUtil.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x726C0000
+     Base size      = 90112
+
+     MODULE NAME:     ESENT.dll
+     Executable     = C:\WINDOWS\system32\ESENT.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x606B0000
+     Base size      = 1101824
+
+     MODULE NAME:     Apphelp.dll
+     Executable     = C:\WINDOWS\system32\Apphelp.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x77B40000
+     Base size      = 139264
+
+     MODULE NAME:     VERSION.dll
+     Executable     = C:\WINDOWS\system32\VERSION.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x77C00000
+     Base size      = 32768
+
+     MODULE NAME:     RSAENH.DLL
+     Executable     = C:\WINDOWS\system32\RSAENH.DLL
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x68000000
+     Base size      = 233472
+
+     MODULE NAME:     WSPDll.dll
+     Executable     = C:\WINDOWS\system32\WSPDll.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0004
+     Ref count (p)  = 0x0004
+     Base address   = 0x10000000
+     Base size      = 73728
+
+     MODULE NAME:     mswsock.dll
+     Executable     = C:\WINDOWS\system32\mswsock.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0005
+     Ref count (p)  = 0x0005
+     Base address   = 0x71A50000
+     Base size      = 258048
+
+     MODULE NAME:     hnetcfg.dll
+     Executable     = C:\WINDOWS\system32\hnetcfg.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x662B0000
+     Base size      = 360448
+
+     MODULE NAME:     wshtcpip.dll
+     Executable     = C:\WINDOWS\System32\wshtcpip.dll
+     Process ID     = 0x000007C4
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x71A90000
+     Base size      = 32768
+
+     THREAD ID      = 0x000005B8
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000160
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000006E8
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000684
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000434
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000430
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000118
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000448
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000000B8
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000001E4
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000004B4
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000360
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000418
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x00000698
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000003CC
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000006D8
+     Base priority  = 8
+     Delta priority = 0
+
+
+     THREAD ID      = 0x000001E0
+     Base priority  = 8
+     Delta priority = 0
+
+
+=====================================================
+PROCESS NAME:  ipconfig.exe
+-------------------------------------------------------
+  Process ID        = 0x00000534
+  Thread count      = 1
+  Parent process ID = 0x000007C4
+  Priority base     = 8
+  Priority class    = 32
+  WARNING: Module32First failed with error 18 (There are no more files)
+
+     THREAD ID      = 0x0000008C
+     Base priority  = 8
+     Delta priority = 0
+
+
+=====================================================
+PROCESS NAME:  Lab15-03.exe
+-------------------------------------------------------
+  Process ID        = 0x00000614
+  Thread count      = 1
+  Parent process ID = 0x00000764
+  Priority base     = 8
+  Priority class    = 32
+
+     MODULE NAME:     Lab15-03.exe
+     Executable     = C:\Documents and Settings\Administrator\Desktop\PracticalMalwareAnalysis-Labs\Chapter_15L\Lab15-03.exe
+     Process ID     = 0x00000614
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x00400000
+     Base size      = 16384
+
+     MODULE NAME:     ntdll.dll
+     Executable     = C:\WINDOWS\system32\ntdll.dll
+     Process ID     = 0x00000614
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7EB30000
+     Base size      = 737280
+
+     MODULE NAME:     kernel32.dll
+     Executable     = C:\WINDOWS\system32\kernel32.dll
+     Process ID     = 0x00000614
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7C800000
+     Base size      = 1011712
+
+     MODULE NAME:     urlmon.dll
+     Executable     = C:\WINDOWS\system32\urlmon.dll
+     Process ID     = 0x00000614
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x78130000
+     Base size      = 1265664
+
+     MODULE NAME:     msvcrt.dll
+     Executable     = C:\WINDOWS\system32\msvcrt.dll
+     Process ID     = 0x00000614
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77C10000
+     Base size      = 360448
+
+     MODULE NAME:     ole32.dll
+     Executable     = C:\WINDOWS\system32\ole32.dll
+     Process ID     = 0x00000614
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7EBF0000
+     Base size      = 1314816
+
+     MODULE NAME:     ADVAPI32.dll
+     Executable     = C:\WINDOWS\system32\ADVAPI32.dll
+     Process ID     = 0x00000614
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77DD0000
+     Base size      = 634880
+
+     MODULE NAME:     RPCRT4.dll
+     Executable     = C:\WINDOWS\system32\RPCRT4.dll
+     Process ID     = 0x00000614
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77E70000
+     Base size      = 602112
+
+     MODULE NAME:     Secur32.dll
+     Executable     = C:\WINDOWS\system32\Secur32.dll
+     Process ID     = 0x00000614
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77FE0000
+     Base size      = 69632
+
+     MODULE NAME:     GDI32.dll
+     Executable     = C:\WINDOWS\system32\GDI32.dll
+     Process ID     = 0x00000614
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77F10000
+     Base size      = 303104
+
+     MODULE NAME:     USER32.dll
+     Executable     = C:\WINDOWS\system32\USER32.dll
+     Process ID     = 0x00000614
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x7E410000
+     Base size      = 593920
+
+     MODULE NAME:     OLEAUT32.dll
+     Executable     = C:\WINDOWS\system32\OLEAUT32.dll
+     Process ID     = 0x00000614
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77120000
+     Base size      = 581632
+
+     MODULE NAME:     MSVCP60.dll
+     Executable     = C:\WINDOWS\system32\MSVCP60.dll
+     Process ID     = 0x00000614
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x76080000
+     Base size      = 413696
+
+     MODULE NAME:     SHLWAPI.dll
+     Executable     = C:\WINDOWS\system32\SHLWAPI.dll
+     Process ID     = 0x00000614
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x77F60000
+     Base size      = 487424
+
+     MODULE NAME:     iertutil.dll
+     Executable     = C:\WINDOWS\system32\iertutil.dll
+     Process ID     = 0x00000614
+     Ref count (g)  = 0xFFFF
+     Ref count (p)  = 0xFFFF
+     Base address   = 0x3B500000
+     Base size      = 2019328
+
+     MODULE NAME:     IMM32.DLL
+     Executable     = C:\WINDOWS\system32\IMM32.DLL
+     Process ID     = 0x00000614
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x76390000
+     Base size      = 118784
+
+     MODULE NAME:     comctl32.dll
+     Executable     = C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.7660_x-ww_936580bb\comctl32.dll
+     Process ID     = 0x00000614
+     Ref count (g)  = 0x0001
+     Ref count (p)  = 0x0001
+     Base address   = 0x773D0000
+     Base size      = 1060864
+
+     THREAD ID      = 0x00000290
+     Base priority  = 8
+     Delta priority = 0

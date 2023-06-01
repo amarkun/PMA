@@ -1,0 +1,48 @@
+
+Strings v2.51
+Copyright (C) 1999-2013 Mark Russinovich
+Sysinternals - www.sysinternals.com
+
+!This program cannot be run in DOS mode.
+Rich8
+.text
+`.rdata
+@.data
+SVW
+uR3
+pu?3
+qu+3
+_^[]
+h@ @
+ SVW
+, @
+P0@
+T0@
+( @
+L0@
+$ @
+H0@
+  @
+X0@
+=40@
+D0@
+5@0@
+%0 @
+%4 @
+printf
+MSVCRT.dll
+_exit
+_XcptFilter
+exit
+__p___initenv
+__getmainargs
+_initterm
+__setusermatherr
+_adjust_fdiv
+__p__commode
+__p__fmode
+__set_app_type
+_except_handler3
+_controlfp
+Good Job!
+Son, I am disappoint.
